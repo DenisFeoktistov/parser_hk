@@ -1,0 +1,158 @@
+{
+  "Black": {
+    "filter_name": "Чёрный",
+    "view_name": "Чёрный"
+  },
+  "White": {
+    "filter_name": "Белый",
+    "view_name": "Белый"
+  },
+  "Blue": {
+    "filter_name": "Синий",
+    "view_name": "Синий"
+  },
+  "Brown": {
+    "filter_name": "Коричневый",
+    "view_name": "Коричневый"
+  },
+  "Snow white": {
+    "filter_name": "Белый",
+    "view_name": "Белоснежный"
+  },
+  "Gray": {
+    "filter_name": "Серый",
+    "view_name": "Серый"
+  },
+  "Navy": {
+    "filter_name": "Синий",
+    "view_name": "Темно-синий"
+  },
+  "Dusty Pink": {
+    "filter_name": "Розовый",
+    "view_name": "Приглушенный розовый"
+  },
+  "Pink": {
+    "filter_name": "Розовый",
+    "view_name": "Розовый"
+  },
+  "Beige": {
+    "filter_name": "Нейтральный",
+    "view_name": "Бежевый"
+  },
+  "Multicolor": {
+    "filter_name": "Разноцветный",
+    "view_name": "Разноцветный"
+  },
+  "Purple": {
+    "filter_name": "Фиолетовый",
+    "view_name": "Фиолетовый"
+  },
+  "Red": {
+    "filter_name": "Красный",
+    "view_name": "Красный"
+  },
+  "True White": {
+    "filter_name": "Белый",
+    "view_name": "Белоснежный"
+  },
+  "Yellow": {
+    "filter_name": "Жёлтый",
+    "view_name": "Жёлтый"
+  },
+  "Royal Blue": {
+    "filter_name": "Синий",
+    "view_name": "Королевский синий"
+  },
+  "Fern Green": {
+    "filter_name": "Зелёный",
+    "view_name": "Зелёный папоротник"
+  },
+  "Silver": {
+    "filter_name": "Серебряный",
+    "view_name": "Серебряный"
+  },
+  "Shady Blue": {
+    "filter_name": "Синий",
+    "view_name": "Тенисто-голубой"
+  },
+  "Candy color": {
+    "filter_name": "Жёлтый",
+    "view_name": "Карамельный"
+  },
+  "Sandy": {
+    "filter_name": "Жёлтый",
+    "view_name": "Песочный"
+  },
+  "Cream": {
+    "filter_name": "Нейтральный",
+    "view_name": "Кремовый"
+  },
+  "Wheat": {
+    "filter_name": "Жёлтый",
+    "view_name": "Пшеничный"
+  },
+  "Mediterranean blue": {
+    "filter_name": "Синий",
+    "view_name": "Средиземноморский синий"
+  },
+  "Cement beige": {
+    "filter_name": "Нейтральный",
+    "view_name": "Цементно-бежевый"
+  },
+  "Burnt Olive": {
+    "filter_name": "Зелёный",
+    "view_name": "Глубокий оливковый"
+  },
+  "Gold": {
+    "filter_name": "Золотой",
+    "view_name": "Золотой"
+  },
+  "Caramel Brown": {
+    "filter_name": "Коричневый",
+    "view_name": "Карамельный коричневый"
+  },
+  "Fluo Green": {
+    "filter_name": "Зелёный",
+    "view_name": "Флуоресцентно-зеленый"
+  },
+  "Almond Butter": {
+    "filter_name": "Коричневый",
+    "view_name": "Мандальное масло"
+  },
+  "Kiwi green gradient": {
+    "filter_name": "Зелёный",
+    "view_name": "Киви"
+  },
+  "Chalk White": {
+    "filter_name": "Белый",
+    "view_name": "Белый мел"
+  },
+  "Mint green": {
+    "filter_name": "Зелёный",
+    "view_name": "Мятный"
+  },
+  "Orange": {
+    "filter_name": "Оранжевый",
+    "view_name": "Оранжевый"
+  },
+  "Chestnut": {
+    "filter_name": "Корчневый",
+    "view_name": "Каштановый"
+  },
+  "Khaki": {
+    "filter_name": "Зелёный",
+    "view_name": "Хаки"
+  },
+  "Vanilla": {
+    "filter_name": "Жёлтый",
+    "view_name": "Ванильный"
+  },
+  "Lime Green": {
+    "filter_name": "Зелёный",
+    "view_name": "Лаймовый"
+  },
+  "Turquoise": {
+    "filter_name": "Зелёный",
+    "view_name": "Бирюзовый"
+  }
+}

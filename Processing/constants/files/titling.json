@@ -1,0 +1,7683 @@
+{
+  "1004221": {
+    "brand_names": [
+      "032c"
+    ]
+  },
+  "1000301": {
+    "brand_names": [
+      "1017 ALYX 9SM",
+      "ALYX"
+    ]
+  },
+  "10242": {
+    "brand_names": [
+      "361°",
+      "361 °",
+      "361"
+    ]
+  },
+  "1001834": {
+    "brand_names": [
+      "424"
+    ]
+  },
+  "634": {
+    "brand_names": [
+      "A BATHING APE®",
+      "A BATHING APE ®",
+      "A BATHING APE",
+      "BAPE"
+    ],
+    "collaborations": {
+      "adidas x Bape": {
+        "collab_brand_ids": [
+          "3",
+          "494",
+          "10139"
+        ],
+        "collab_brand_names": [
+          "adidas originals",
+          "adidas neo",
+          "adidas"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "10350": {
+    "brand_names": [
+      "A-COLD-WALL*",
+      "A-COLD-WALL",
+      "acw"
+    ],
+    "collaborations": {
+      "Converse x A-Cold-Wall*": {
+        "collab_brand_ids": [
+          "176"
+        ],
+        "collab_brand_names": [
+          "converse"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x A-Cold-Wall*": {
+        "collab_brand_ids": [
+          "144"
+        ],
+        "collab_brand_names": [
+          "jordan",
+          "nike"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "1001901": {
+    "brand_names": [
+      "A.P.C.",
+      "a.p.c",
+      "apc",
+      "a. p. c."
+    ]
+  },
+  "248": {
+    "brand_names": [
+      "AAPE BY *A BATHING APE®",
+      "AAPE BY A BATHING APE®",
+      "AAPE BY *A BATHING APE",
+      "AAPE BY A BATHING APE",
+      "AAPE"
+    ],
+    "collaborations": {
+      "adidas x Bape": {
+        "collab_brand_ids": [
+          "3",
+          "494",
+          "10139"
+        ],
+        "collab_brand_names": [
+          "adidas originals",
+          "adidas neo",
+          "adidas"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "10310": {
+    "brand_names": [
+      "acme de la vie",
+      "acme de la vie/ADLV"
+    ]
+  },
+  "10262": {
+    "brand_names": [
+      "Acne Studios"
+    ]
+  },
+  "10241": {
+    "brand_names": [
+      "Acupuncture"
+    ]
+  },
+  "1000093": {
+    "brand_names": [
+      "Ader Error"
+    ]
+  },
+  "494": {
+    "brand_names": [
+      "adidas",
+      "adidas originals"
+    ],
+    "lines": [
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "adidas Yeezy 350"
+        ],
+        "line_names": [
+          "yeezy boost 350 ",
+          "yeezy 350 "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "adidas Yeezy 380"
+        ],
+        "line_names": [
+          "yeezy boost 380 ",
+          "yeezy 380 "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "adidas Yeezy 450"
+        ],
+        "line_names": [
+          "yeezy boost 450 ",
+          "yeezy 450 "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "adidas Yeezy 500"
+        ],
+        "line_names": [
+          "yeezy boost 500 ",
+          "yeezy 500 "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "adidas Yeezy 700"
+        ],
+        "line_names": [
+          "yeezy boost 700 ",
+          "yeezy 700 "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "adidas Yeezy 750"
+        ],
+        "line_names": [
+          "yeezy boost 750 ",
+          "yeezy 750 "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "adidas Yeezy Foam Runner"
+        ],
+        "line_names": [
+          "yeezy Foam Runner",
+          "Foam Runner"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "adidas Yeezy Slide"
+        ],
+        "line_names": [
+          "yeezy Slide"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "Другие Yeezy"
+        ],
+        "line_names": [
+          "yeezy"
+        ],
+        "line_name_no_crop": [
+          "yeezy"
+        ],
+        "line_skip_names": [
+          "pod-s3.1 blink"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas EQT"
+        ],
+        "line_names": [
+          "eqt"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Harden"
+        ],
+        "line_names": [
+          "harden"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Adilette"
+        ],
+        "line_names": [
+          "Adilette"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Samba"
+        ],
+        "line_names": [
+          "samba"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Stan Smith"
+        ],
+        "line_names": [
+          "stan smith",
+          "stansmith"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Superstar"
+        ],
+        "line_names": [
+          "superstar",
+          "super star"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Ultraboost"
+        ],
+        "line_names": [
+          "Ultraboost",
+          "Ultra Boost"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas 4D"
+        ],
+        "line_names": [
+          "4d"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Nizza"
+        ],
+        "line_names": [
+          "nizza"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Gazelle"
+        ],
+        "line_names": [
+          "Gazelle"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Forum"
+        ],
+        "line_names": [
+          " forum "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Campus"
+        ],
+        "line_names": [
+          " campus "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Human Race"
+        ],
+        "line_names": [
+          "Pharrell Williams",
+          "nmd hu",
+          "human race",
+          "nmd human race"
+        ],
+        "line_name_no_crop": []
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas NMD"
+        ],
+        "line_names": [
+          "nmd"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas ZX"
+        ],
+        "line_names": [
+          " zx "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Ozweego"
+        ],
+        "line_names": [
+          "ozweego"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Pro Bounce"
+        ],
+        "line_names": [
+          "Pro Bounce"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Trae Young"
+        ],
+        "line_names": [
+          "Trae Young",
+          "trae"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas D Rose"
+        ],
+        "line_names": [
+          "d rose",
+          "drose",
+          "derrick rose",
+          " rose "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Dame (Damian Lillard)"
+        ],
+        "line_names": [
+          "dame",
+          "dame lillard",
+          "damian lillard",
+          "d lillard"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas D.O.N"
+        ],
+        "line_names": [
+          "D.O.N",
+          " don "
+        ]
+      }
+    ],
+    "many_lines": false,
+    "collaborations": {
+      "adidas Yeezy": {
+        "collab_brand_ids": [
+          "1152"
+        ],
+        "collab_brand_names": [
+          "yeezy"
+        ],
+        "collab_brand_names_no_crop": [
+          "yeezy"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": [
+          "pod-s3.1 blink"
+        ]
+      },
+      "adidas x Atmos": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          " atmos "
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Fear of God": {
+        "collab_brand_ids": [
+          "10359",
+          "10082"
+        ],
+        "collab_brand_names": [
+          "Fear of God",
+          " fog "
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Raf Simons": {
+        "collab_brand_ids": [
+          "1000018"
+        ],
+        "collab_brand_names": [
+          "raf simons",
+          "rafsimons"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Pharrell Williams": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "pharrell williams",
+          "pharrellwilliams",
+          "pharrell",
+          "human race",
+          "humanrace",
+          "pharrellhu",
+          "pharrell hu",
+          "nmdhu",
+          "nmd hu"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Gucci": {
+        "collab_brand_ids": [
+          "79"
+        ],
+        "collab_brand_names": [
+          "gucci"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Bad Bunny": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "bad bunny",
+          "badbunny"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Prada": {
+        "collab_brand_ids": [
+          "10010"
+        ],
+        "collab_brand_names": [
+          "prada"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Balenciaga": {
+        "collab_brand_ids": [
+          "10012"
+        ],
+        "collab_brand_names": [
+          "balenciaga"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas by Stella McCartney": {
+        "collab_brand_ids": [
+          "1000528"
+        ],
+        "collab_brand_names": [
+          "stella mccartney",
+          "stella mcc",
+          "mccartney",
+          "stellamccartney"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Sean Wotherspoon": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "sean wotherspoon",
+          "seanwotherspoon"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Bape": {
+        "collab_brand_ids": [
+          "634",
+          "248"
+        ],
+        "collab_brand_names": [
+          "a bathing ape",
+          "A BATHING APE®",
+          "AAPE BY *A BATHING APE®",
+          "AAPE BY A BATHING APE®",
+          "AAPE BY *A BATHING APE",
+          "AAPE BY A BATHING APE",
+          "AAPE",
+          "A BATHING APE ®",
+          "bape"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Alexander Wang": {
+        "collab_brand_ids": [
+          "10302"
+        ],
+        "collab_brand_names": [
+          "alexander wang",
+          "alexanderwang"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x UNDEFEATED": {
+        "collab_brand_ids": [
+          "10141"
+        ],
+        "collab_brand_names": [
+          "undefeated"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Human Made": {
+        "collab_brand_ids": [
+          "10219"
+        ],
+        "collab_brand_names": [
+          "human made",
+          "humanmade"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Ivy Park": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "ivy park",
+          "ivypark"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x KITH": {
+        "collab_brand_ids": [
+          "10038"
+        ],
+        "collab_brand_names": [
+          "kith"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "10139": {
+    "brand_names": [
+      "adidas",
+      "adidas Neo"
+    ],
+    "lines": [
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "adidas Yeezy 350"
+        ],
+        "line_names": [
+          "yeezy boost 350 ",
+          "yeezy 350 "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "adidas Yeezy 380"
+        ],
+        "line_names": [
+          "yeezy boost 380 ",
+          "yeezy 380 "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "adidas Yeezy 450"
+        ],
+        "line_names": [
+          "yeezy boost 450 ",
+          "yeezy 450 "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "adidas Yeezy 500"
+        ],
+        "line_names": [
+          "yeezy boost 500 ",
+          "yeezy 500 "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "adidas Yeezy 700"
+        ],
+        "line_names": [
+          "yeezy boost 700 ",
+          "yeezy 700 "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "adidas Yeezy 750"
+        ],
+        "line_names": [
+          "yeezy boost 750 ",
+          "yeezy 750 "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "adidas Yeezy Foam Runner"
+        ],
+        "line_names": [
+          "yeezy Foam Runner",
+          "Foam Runner"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "adidas Yeezy Slide"
+        ],
+        "line_names": [
+          "yeezy Slide"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "Другие Yeezy"
+        ],
+        "line_names": [
+          "yeezy"
+        ],
+        "line_name_no_crop": [
+          "yeezy"
+        ],
+        "line_skip_names": [
+          "pod-s3.1 blink"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas EQT"
+        ],
+        "line_names": [
+          "eqt"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Harden"
+        ],
+        "line_names": [
+          "harden"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Adilette"
+        ],
+        "line_names": [
+          "Adilette"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Samba"
+        ],
+        "line_names": [
+          "samba"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Stan Smith"
+        ],
+        "line_names": [
+          "stan smith",
+          "stansmith"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Superstar"
+        ],
+        "line_names": [
+          "superstar",
+          "super star"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Ultraboost"
+        ],
+        "line_names": [
+          "Ultraboost",
+          "Ultra Boost"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas 4D"
+        ],
+        "line_names": [
+          "4d"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Nizza"
+        ],
+        "line_names": [
+          "nizza"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Gazelle"
+        ],
+        "line_names": [
+          "Gazelle"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Forum"
+        ],
+        "line_names": [
+          " forum "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Campus"
+        ],
+        "line_names": [
+          " campus "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Human Race"
+        ],
+        "line_names": [
+          "Pharrell Williams",
+          "nmd hu",
+          "human race",
+          "nmd human race"
+        ],
+        "line_name_no_crop": []
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas NMD"
+        ],
+        "line_names": [
+          "nmd"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Ozweego"
+        ],
+        "line_names": [
+          "ozweego"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas ZX"
+        ],
+        "line_names": [
+          " zx "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Pro Bounce"
+        ],
+        "line_names": [
+          "Pro Bounce"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Trae Young"
+        ],
+        "line_names": [
+          "Trae Young",
+          "trae"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas D Rose"
+        ],
+        "line_names": [
+          "d rose",
+          "drose",
+          "derrick rose",
+          " rose "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Dame (Damian Lillard)"
+        ],
+        "line_names": [
+          "dame",
+          "dame lillard",
+          "damian lillard",
+          "d lillard"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas D.O.N"
+        ],
+        "line_names": [
+          "D.O.N",
+          " don "
+        ]
+      }
+    ],
+    "many_lines": false,
+    "collaborations": {
+      "adidas Yeezy": {
+        "collab_brand_ids": [
+          "1152"
+        ],
+        "collab_brand_names": [
+          "yeezy"
+        ],
+        "collab_brand_names_no_crop": [
+          "yeezy"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": [
+          "pod-s3.1 blink"
+        ]
+      },
+      "adidas x Atmos": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          " atmos "
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Fear of God": {
+        "collab_brand_ids": [
+          "10359",
+          "10082"
+        ],
+        "collab_brand_names": [
+          "Fear of God",
+          " fog "
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Raf Simons": {
+        "collab_brand_ids": [
+          "1000018"
+        ],
+        "collab_brand_names": [
+          "raf simons",
+          "rafsimons"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Pharrell Williams": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "pharrell williams",
+          "pharrellwilliams",
+          "pharrell",
+          "human race",
+          "humanrace",
+          "pharrellhu",
+          "pharrell hu",
+          "nmdhu",
+          "nmd hu"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Gucci": {
+        "collab_brand_ids": [
+          "79"
+        ],
+        "collab_brand_names": [
+          "gucci"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Bad Bunny": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "bad bunny",
+          "badbunny"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Prada": {
+        "collab_brand_ids": [
+          "10010"
+        ],
+        "collab_brand_names": [
+          "prada"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Balenciaga": {
+        "collab_brand_ids": [
+          "10012"
+        ],
+        "collab_brand_names": [
+          "balenciaga"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas by Stella McCartney": {
+        "collab_brand_ids": [
+          "1000528"
+        ],
+        "collab_brand_names": [
+          "stella mccartney",
+          "stella mcc",
+          "mccartney",
+          "stellamccartney"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Sean Wotherspoon": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "sean wotherspoon",
+          "seanwotherspoon"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Bape": {
+        "collab_brand_ids": [
+          "634",
+          "248"
+        ],
+        "collab_brand_names": [
+          "a bathing ape",
+          "A BATHING APE®",
+          "AAPE BY *A BATHING APE®",
+          "AAPE BY A BATHING APE®",
+          "AAPE BY *A BATHING APE",
+          "AAPE BY A BATHING APE",
+          "AAPE",
+          "A BATHING APE ®",
+          "bape"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Alexander Wang": {
+        "collab_brand_ids": [
+          "10302"
+        ],
+        "collab_brand_names": [
+          "alexander wang",
+          "alexanderwang"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x UNDEFEATED": {
+        "collab_brand_ids": [
+          "10141"
+        ],
+        "collab_brand_names": [
+          "undefeated"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Human Made": {
+        "collab_brand_ids": [
+          "10219"
+        ],
+        "collab_brand_names": [
+          "human made",
+          "humanmade"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Ivy Park": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "ivy park",
+          "ivypark"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x KITH": {
+        "collab_brand_ids": [
+          "10038"
+        ],
+        "collab_brand_names": [
+          "kith"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "3": {
+    "brand_names": [
+      "adidas"
+    ],
+    "lines": [
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "adidas Yeezy 350"
+        ],
+        "line_names": [
+          "yeezy boost 350 ",
+          "yeezy 350 "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "adidas Yeezy 380"
+        ],
+        "line_names": [
+          "yeezy boost 380 ",
+          "yeezy 380 "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "adidas Yeezy 450"
+        ],
+        "line_names": [
+          "yeezy boost 450 ",
+          "yeezy 450 "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "adidas Yeezy 500"
+        ],
+        "line_names": [
+          "yeezy boost 500 ",
+          "yeezy 500 "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "adidas Yeezy 700"
+        ],
+        "line_names": [
+          "yeezy boost 700 ",
+          "yeezy 700 "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "adidas Yeezy 750"
+        ],
+        "line_names": [
+          "yeezy boost 750 ",
+          "yeezy 750 "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "adidas Yeezy Foam Runner"
+        ],
+        "line_names": [
+          "yeezy Foam Runner",
+          "Foam Runner"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "adidas Yeezy Slide"
+        ],
+        "line_names": [
+          "yeezy Slide"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Yeezy",
+          "Другие Yeezy"
+        ],
+        "line_names": [
+          "yeezy"
+        ],
+        "line_name_no_crop": [
+          "yeezy"
+        ],
+        "line_skip_names": [
+          "pod-s3.1 blink"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas EQT"
+        ],
+        "line_names": [
+          "eqt"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Harden"
+        ],
+        "line_names": [
+          "harden"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Adilette"
+        ],
+        "line_names": [
+          "Adilette"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Samba"
+        ],
+        "line_names": [
+          "samba"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Stan Smith"
+        ],
+        "line_names": [
+          "stan smith",
+          "stansmith"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Superstar"
+        ],
+        "line_names": [
+          "superstar",
+          "super star"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Ultraboost"
+        ],
+        "line_names": [
+          "Ultraboost",
+          "Ultra Boost"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas 4D"
+        ],
+        "line_names": [
+          "4d"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Nizza"
+        ],
+        "line_names": [
+          "nizza"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Gazelle"
+        ],
+        "line_names": [
+          "Gazelle"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Forum"
+        ],
+        "line_names": [
+          " forum "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Campus"
+        ],
+        "line_names": [
+          " campus "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas ZX"
+        ],
+        "line_names": [
+          " zx "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Human Race"
+        ],
+        "line_names": [
+          "Pharrell Williams",
+          "nmd hu",
+          "human race",
+          "nmd human race"
+        ],
+        "line_name_no_crop": []
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas NMD"
+        ],
+        "line_names": [
+          "nmd"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Ozweego"
+        ],
+        "line_names": [
+          "ozweego"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Pro Bounce"
+        ],
+        "line_names": [
+          "Pro Bounce"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Trae Young"
+        ],
+        "line_names": [
+          "Trae Young",
+          "trae"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas D Rose"
+        ],
+        "line_names": [
+          "d rose",
+          "drose",
+          "derrick rose",
+          " rose "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Dame (Damian Lillard)"
+        ],
+        "line_names": [
+          "dame",
+          "dame lillard",
+          "damian lillard",
+          "d lillard"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas D.O.N"
+        ],
+        "line_names": [
+          "D.O.N",
+          " don "
+        ]
+      }
+    ],
+    "many_lines": false,
+    "collaborations": {
+      "adidas Yeezy": {
+        "collab_brand_ids": [
+          "1152"
+        ],
+        "collab_brand_names": [
+          "yeezy"
+        ],
+        "collab_brand_names_no_crop": [
+          "yeezy"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": [
+          "pod-s3.1 blink"
+        ]
+      },
+      "adidas x Fear of God": {
+        "collab_brand_ids": [
+          "10359",
+          "10082"
+        ],
+        "collab_brand_names": [
+          "Fear of God",
+          " fog "
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Atmos": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          " atmos "
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Raf Simons": {
+        "collab_brand_ids": [
+          "1000018"
+        ],
+        "collab_brand_names": [
+          "raf simons",
+          "rafsimons"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Pharrell Williams": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "pharrell williams",
+          "pharrellwilliams",
+          "pharrell",
+          "human race",
+          "humanrace",
+          "pharrellhu",
+          "pharrell hu",
+          "nmdhu",
+          "nmd hu"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Gucci": {
+        "collab_brand_ids": [
+          "79"
+        ],
+        "collab_brand_names": [
+          "gucci"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Bad Bunny": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "bad bunny",
+          "badbunny"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Prada": {
+        "collab_brand_ids": [
+          "10010"
+        ],
+        "collab_brand_names": [
+          "prada"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Balenciaga": {
+        "collab_brand_ids": [
+          "10012"
+        ],
+        "collab_brand_names": [
+          "balenciaga"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas by Stella McCartney": {
+        "collab_brand_ids": [
+          "1000528"
+        ],
+        "collab_brand_names": [
+          "stella mccartney",
+          "stella mcc",
+          "mccartney",
+          "stellamccartney"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Sean Wotherspoon": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "sean wotherspoon",
+          "seanwotherspoon"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Bape": {
+        "collab_brand_ids": [
+          "634",
+          "248"
+        ],
+        "collab_brand_names": [
+          "a bathing ape",
+          "A BATHING APE®",
+          "AAPE BY *A BATHING APE®",
+          "AAPE BY A BATHING APE®",
+          "AAPE BY *A BATHING APE",
+          "AAPE BY A BATHING APE",
+          "AAPE",
+          "A BATHING APE ®",
+          "bape"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Alexander Wang": {
+        "collab_brand_ids": [
+          "10302"
+        ],
+        "collab_brand_names": [
+          "alexander wang",
+          "alexanderwang"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x UNDEFEATED": {
+        "collab_brand_ids": [
+          "10141"
+        ],
+        "collab_brand_names": [
+          "undefeated"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Human Made": {
+        "collab_brand_ids": [
+          "10219"
+        ],
+        "collab_brand_names": [
+          "human made",
+          "humanmade"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Ivy Park": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "ivy park",
+          "ivypark"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x KITH": {
+        "collab_brand_ids": [
+          "10038"
+        ],
+        "collab_brand_names": [
+          "kith"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "1009201": {
+    "brand_names": [
+      "AGL"
+    ]
+  },
+  "1002137": {
+    "brand_names": [
+      "Agolde"
+    ]
+  },
+  "1008501": {
+    "brand_names": [
+      "Aimé Leon Dore",
+      "Aime Leon Dore"
+    ],
+    "collaborations": {
+      "New Balance x Aimé Leon Dore": {
+        "collab_brand_ids": [
+          "4"
+        ],
+        "collab_brand_names": [
+          "new balance",
+          "nb"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "1009798": {
+    "brand_names": [
+      "Alaia"
+    ]
+  },
+  "10011": {
+    "brand_names": [
+      "Alexander McQueen",
+      "amcq",
+      "alexandermcqueen"
+    ]
+  },
+  "10029": {
+    "brand_names": [
+      "Alexander McQueen",
+      "amcq",
+      "mcq",
+      "alexandermcqueen"
+    ]
+  },
+  "10302": {
+    "brand_names": [
+      "alexander wang"
+    ],
+    "collaborations": {
+      "adidas x Alexander Wang": {
+        "collab_brand_ids": [
+          "3",
+          "494",
+          "10139"
+        ],
+        "collab_brand_names": [
+          "adidas originals",
+          "adidas neo",
+          "adidas"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "1011312": {
+    "brand_names": [
+      "Alexandre Vauthier"
+    ]
+  },
+  "1007950": {
+    "brand_names": [
+      "Alice + Olivia"
+    ]
+  },
+  "1013538": {
+    "brand_names": [
+      "ALLSAINTS"
+    ]
+  },
+  "10031": {
+    "brand_names": [
+      "Alpha Industries"
+    ]
+  },
+  "10119": {
+    "brand_names": [
+      "AMBUSH"
+    ],
+    "collaborations": {
+      "Nike x Ambush": {
+        "collab_brand_ids": [
+          "144",
+          "13"
+        ],
+        "collab_brand_names": [
+          "nike",
+          "jordan"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "10104": {
+    "brand_names": [
+      "AMI Paris",
+      "Ami",
+      "AMIPARIS"
+    ]
+  },
+  "1000416": {
+    "brand_names": [
+      "AMIRI"
+    ]
+  },
+  "1009896": {
+    "brand_names": [
+      "Andersson Bell"
+    ]
+  },
+  "1000573": {
+    "brand_names": [
+      "Ann Demeulemeester"
+    ]
+  },
+  "34": {
+    "brand_names": [
+      "Anta",
+      "Anta安踏",
+      "安踏"
+    ],
+    "many_lines": false,
+    "lines": [
+      {
+        "path": [
+          "Anta",
+          "Anta KT7"
+        ],
+        "line_names": [
+          "kt7 "
+        ]
+      },
+      {
+        "path": [
+          "Anta",
+          "Anta KT8"
+        ],
+        "line_names": [
+          "kt8 "
+        ]
+      },
+      {
+        "path": [
+          "Anta",
+          "Anta KT3"
+        ],
+        "line_names": [
+          "kt3 "
+        ]
+      }
+    ]
+  },
+  "10113": {
+    "brand_names": [
+      "Anti Social Social Club",
+      "ASSC"
+    ]
+  },
+  "1000294": {
+    "brand_names": [
+      "APEDE MOD"
+    ]
+  },
+  "10263": {
+    "brand_names": [
+      "apm monaco"
+    ]
+  },
+  "1013546": {
+    "brand_names": [
+      "Aquascutum"
+    ]
+  },
+  "1001192": {
+    "brand_names": [
+      "Aquazzura"
+    ]
+  },
+  "10429": {
+    "brand_names": [
+      "Arc'teryx",
+      "arcteryx"
+    ]
+  },
+  "1004671": {
+    "brand_names": [
+      "Aries"
+    ]
+  },
+  "10116": {
+    "brand_names": [
+      "Armani"
+    ]
+  },
+  "1000080": {
+    "brand_names": [
+      "Armani"
+    ]
+  },
+  "10274": {
+    "brand_names": [
+      "Armani"
+    ]
+  },
+  "1000546": {
+    "brand_names": [
+      "ASH"
+    ]
+  },
+  "8": {
+    "brand_names": [
+      "Asics"
+    ],
+    "many_lines": false,
+    "lines": [
+      {
+        "path": [
+          "Asics",
+          "Asics Gel-Lyte"
+        ],
+        "line_names": [
+          "gel-lyte",
+          "gellyte",
+          "gel lyte",
+          "gel - lyte"
+        ]
+      },
+      {
+        "path": [
+          "Asics",
+          "Asics Gel-Cumulus"
+        ],
+        "line_names": [
+          "gel-Cumulus",
+          "gelCumulus",
+          "gel Cumulus",
+          "gel - Cumulus"
+        ]
+      },
+      {
+        "path": [
+          "Asics",
+          "Asics Gel-Excite"
+        ],
+        "line_names": [
+          "gel-Excite",
+          "gelExcite",
+          "gel Excite",
+          "gel - Excite"
+        ]
+      },
+      {
+        "path": [
+          "Asics",
+          "Asics Gel-Nimbus"
+        ],
+        "line_names": [
+          "gel-Nimbus",
+          "gelNimbus",
+          "gel Nimbus",
+          "gel - Nimbus"
+        ]
+      },
+      {
+        "path": [
+          "Asics",
+          "Asics Gel-Quantum"
+        ],
+        "line_names": [
+          "gel-Quantum",
+          "gelQuantum",
+          "gel Quantum",
+          "gel - Quantum"
+        ]
+      },
+      {
+        "path": [
+          "Asics",
+          "Asics Gel-Contend"
+        ],
+        "line_names": [
+          "gel-contend",
+          "gelcontend",
+          "gel contend",
+          "gel - contend"
+        ]
+      },
+      {
+        "path": [
+          "Asics",
+          "Asics Gel-Flux"
+        ],
+        "line_names": [
+          "gel-flux",
+          "gelflux",
+          "gel flux",
+          "gel - flux"
+        ]
+      },
+      {
+        "path": [
+          "Asics",
+          "Asics Gel-1090"
+        ],
+        "line_names": [
+          "gel-1090",
+          "gel1090",
+          "gel 1090",
+          "gel - 1090"
+        ]
+      },
+      {
+        "path": [
+          "Asics",
+          "Asics Gel-1130"
+        ],
+        "line_names": [
+          "gel-1130",
+          "gel1130",
+          "gel 1130",
+          "gel - 1130"
+        ]
+      },
+      {
+        "path": [
+          "Asics",
+          "Asics Gel-NYC"
+        ],
+        "line_names": [
+          "gel-nyc",
+          "gelnyc",
+          "gel nyc",
+          "gel - nyc"
+        ]
+      },
+      {
+        "path": [
+          "Asics",
+          "Asics Gel-Kayano"
+        ],
+        "line_names": [
+          "gel-Kayano",
+          "gelKayano",
+          "gel Kayano",
+          "gel - Kayano"
+        ]
+      },
+      {
+        "path": [
+          "Asics",
+          "Asics Gel-Kahana"
+        ],
+        "line_names": [
+          "gel-Kahana",
+          "gelKahana",
+          "gel Kahana",
+          "gel - Kahana"
+        ]
+      },
+      {
+        "path": [
+          "Asics",
+          "Asics Magic Speed"
+        ],
+        "line_names": [
+          "magic speed"
+        ]
+      },
+      {
+        "path": [
+          "Asics",
+          "Asics GT"
+        ],
+        "line_names": [
+          " gt "
+        ]
+      }
+    ],
+    "collaborations": {
+      "Asics x Concepts": {
+        "collab_brand_ids": [
+          "1001109"
+        ],
+        "collab_brand_names": [
+          "concepts"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Asics x JJJJound": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "JJJJound"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Asics x KITH": {
+        "collab_brand_ids": [
+          "10038"
+        ],
+        "collab_brand_names": [
+          "kith"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Asics x Awake NY": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "Awake NY"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Asics x Kiko Kostadinov": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "Kiko Kostadinov"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "1006206": {
+    "brand_names": [
+      "Axel Arigato"
+    ]
+  },
+  "1006955": {
+    "brand_names": [
+      "Azepam"
+    ]
+  },
+  "10012": {
+    "brand_names": [
+      "Balenciaga"
+    ],
+    "collaborations": {
+      "adidas x Balenciaga": {
+        "collab_brand_ids": [
+          "3",
+          "494",
+          "10139"
+        ],
+        "collab_brand_names": [
+          "adidas originals",
+          "adidas neo",
+          "adidas"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "YEEZY x Gap": {
+        "collab_brand_ids": [
+          "1008504",
+          "1152"
+        ],
+        "collab_brand_names": [
+          "yeezy x gap"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "1004779": {
+    "brand_names": [
+      "Ballantyne"
+    ]
+  },
+  "1000436": {
+    "brand_names": [
+      "Bally"
+    ]
+  },
+  "1000769": {
+    "brand_names": [
+      "Balmain"
+    ]
+  },
+  "1009131": {
+    "brand_names": [
+      "Banana Shark"
+    ]
+  },
+  "1002977": {
+    "brand_names": [
+      "Banditk Gangn"
+    ]
+  },
+  "1004952": {
+    "brand_names": [
+      "Barbour"
+    ]
+  },
+  "1012591": {
+    "brand_names": [
+      "Barker"
+    ]
+  },
+  "1010541": {
+    "brand_names": [
+      "Barrow"
+    ]
+  },
+  "10311": {
+    "brand_names": [
+      "BE@RBRICK"
+    ]
+  },
+  "1000175": {
+    "brand_names": [
+      "beams"
+    ]
+  },
+  "10191": {
+    "brand_names": [
+      "Beaster"
+    ]
+  },
+  "1011859": {
+    "brand_names": [
+      "Belle"
+    ]
+  },
+  "1001815": {
+    "brand_names": [
+      "Billionaire boys club",
+      "BBC"
+    ]
+  },
+  "1000156": {
+    "brand_names": [
+      "Birkenstock"
+    ],
+    "collaborations": {
+      "Dior x Birkenstock": {
+        "collab_brand_ids": [
+          "10106"
+        ],
+        "collab_brand_names": [
+          "dior"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "1006115": {
+    "brand_names": [
+      "BJHG"
+    ]
+  },
+  "1000378": {
+    "brand_names": [
+      "BLINDNOPLAN"
+    ]
+  },
+  "10403": {
+    "brand_names": [
+      "Blumarine"
+    ]
+  },
+  "1008692": {
+    "brand_names": [
+      "BODE"
+    ]
+  },
+  "1008405": {
+    "brand_names": [
+      "BOGNER"
+    ]
+  },
+  "1012673": {
+    "brand_names": [
+      "Bonastre"
+    ]
+  },
+  "1000455": {
+    "brand_names": [
+      "bosieagender"
+    ]
+  },
+  "10054": {
+    "brand_names": [
+      "Bottega Veneta"
+    ]
+  },
+  "1014533": {
+    "brand_names": [
+      "Brioni"
+    ]
+  },
+  "1003103": {
+    "brand_names": [
+      "Brunello Cucinelli"
+    ]
+  },
+  "1001239": {
+    "brand_names": [
+      "Buccellati"
+    ]
+  },
+  "10032": {
+    "brand_names": [
+      "Burberry"
+    ],
+    "collaborations": {
+      "Supreme x Burberry": {
+        "collab_brand_ids": [
+          "439"
+        ],
+        "collab_brand_names": [
+          "supreme"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "10039999": {
+    "brand_names": [
+      "Burton"
+    ]
+  },
+  "10270": {
+    "brand_names": [
+      "BVLGARI"
+    ]
+  },
+  "1000046": {
+    "brand_names": [
+      "BY FAR"
+    ]
+  },
+  "1003483": {
+    "brand_names": [
+      "C.P. Company",
+      "C.P.Company",
+      "cp company"
+    ]
+  },
+  "10037": {
+    "brand_names": [
+      "C2H4"
+    ]
+  },
+  "1000642": {
+    "brand_names": [
+      "Cactus Jack by Travis Scott",
+      "Cactus Jack Travis Scott",
+      "Travis Scott Cactus Jack",
+      "Travis Scott",
+      "Cactus Jack",
+      "Travis"
+    ],
+    "collaborations": {
+      "Cactus Jack by Travis Scott x McDonald's": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "mcdonald",
+          "mcdonald's"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Cactus Jack by Travis Scott x Dior": {
+        "collab_brand_ids": [
+          "10106"
+        ],
+        "collab_brand_names": [
+          "dior"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x Travis Scott": {
+        "collab_brand_ids": [
+          "13",
+          "144"
+        ],
+        "collab_brand_names": [
+          "jordan",
+          "nike"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "1002600": {
+    "brand_names": [
+      "Cactus Plant Flea Market",
+      "CPFM"
+    ],
+    "collaborations": {
+      "Nike x Cactus Plant Flea Market": {
+        "collab_brand_ids": [
+          "144",
+          "13"
+        ],
+        "collab_brand_names": [
+          "jordan",
+          "nike"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "10207": {
+    "brand_names": [
+      "Calvin Klein",
+      "Calvin Klein/CK",
+      "CK",
+      "CK/Calvin Klein"
+    ]
+  },
+  "10073": {
+    "brand_names": [
+      "Canada Goose"
+    ]
+  },
+  "1012581": {
+    "brand_names": [
+      "Caramella"
+    ]
+  },
+  "10028": {
+    "brand_names": [
+      "Carhartt"
+    ]
+  },
+  "10030": {
+    "brand_names": [
+      "Carhartt",
+      "Carhartt WIP"
+    ]
+  },
+  "10041": {
+    "brand_names": [
+      "Cartier"
+    ]
+  },
+  "1001817": {
+    "brand_names": [
+      "Casablanca"
+    ],
+    "collaborations": {
+      "New Balance x Casablanca": {
+        "collab_brand_ids": [
+          "4"
+        ],
+        "collab_brand_names": [
+          "new balance",
+          "nb"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "1007399": {
+    "brand_names": [
+      "Casadei"
+    ]
+  },
+  "843": {
+    "brand_names": [
+      "Casio"
+    ]
+  },
+  "10227": {
+    "brand_names": [
+      "CAT"
+    ]
+  },
+  "10021": {
+    "brand_names": [
+      "Cav Empt",
+      "cavempt"
+    ]
+  },
+  "10314": {
+    "brand_names": [
+      "Celine"
+    ]
+  },
+  "1310": {
+    "brand_names": [
+      "Champion"
+    ]
+  },
+  "10045": {
+    "brand_names": [
+      "Chanel"
+    ]
+  },
+  "1002422": {
+    "brand_names": [
+      "CHARLES&KEITH",
+      "CHARLES & KEITH",
+      "CHARLES KEITH"
+    ]
+  },
+  "10269": {
+    "brand_names": [
+      "Charlotte Tilbury"
+    ]
+  },
+  "10083": {
+    "brand_names": [
+      "Chiara Ferragni"
+    ]
+  },
+  "1004288": {
+    "brand_names": [
+      "Chinatown Market"
+    ]
+  },
+  "10443": {
+    "brand_names": [
+      "Chinism"
+    ]
+  },
+  "1000025": {
+    "brand_names": [
+      "Chloe"
+    ]
+  },
+  "10291": {
+    "brand_names": [
+      "Christian Louboutin",
+      "Christian Louboutin/CL",
+      "CL"
+    ]
+  },
+  "1000153": {
+    "brand_names": [
+      "Chrome Hearts",
+      "Chrome Hearts/CH",
+      "CH"
+    ]
+  },
+  "1001174": {
+    "brand_names": [
+      "Church's",
+      "churchs",
+      "church"
+    ]
+  },
+  "10170": {
+    "brand_names": [
+      "Citizen"
+    ]
+  },
+  "1001545": {
+    "brand_names": [
+      "Clarks"
+    ]
+  },
+  "10066": {
+    "brand_names": [
+      "Clot"
+    ],
+    "collaborations": {
+      "Nike x Clot": {
+        "collab_brand_ids": [
+          "13",
+          "144"
+        ],
+        "collab_brand_names": [
+          "nike",
+          "jordan"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "10229": {
+    "brand_names": [
+      "Coach"
+    ]
+  },
+  "1001678": {
+    "brand_names": [
+      "Cole Haan"
+    ]
+  },
+  "10120": {
+    "brand_names": [
+      "Comme Des Garçons",
+      "Comme Des Garcons",
+      "CDG"
+    ],
+    "collaborations": {
+      "Converse x Comme des Garçons": {
+        "collab_brand_ids": [
+          "176"
+        ],
+        "collab_brand_names": [
+          "converse"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Supreme x Comme des Garçons": {
+        "collab_brand_ids": [
+          "439"
+        ],
+        "collab_brand_names": [
+          "supreme"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "10210": {
+    "brand_names": [
+      "Comme Des Garçons",
+      "Comme Des Garcons",
+      "CDG"
+    ],
+    "collaborations": {
+      "Converse x Comme des Garçons": {
+        "collab_brand_ids": [
+          "176"
+        ],
+        "collab_brand_names": [
+          "converse"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Supreme x Comme des Garçons": {
+        "collab_brand_ids": [
+          "439"
+        ],
+        "collab_brand_names": [
+          "supreme"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "1000041": {
+    "brand_names": [
+      "Common Projects"
+    ]
+  },
+  "1001109": {
+    "brand_names": [
+      "Concepts"
+    ],
+    "collaborations": {
+      "Asics x Concepts": {
+        "collab_brand_ids": [
+          "8"
+        ],
+        "collab_brand_names": [
+          "asics"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "New Balance x Concepts": {
+        "collab_brand_ids": [
+          "4"
+        ],
+        "collab_brand_names": [
+          "new balance",
+          "nb"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "10354": {
+    "brand_names": [
+      "Conklab"
+    ]
+  },
+  "176": {
+    "brand_names": [
+      "Converse"
+    ],
+    "many_lines": true,
+    "lines": [
+      {
+        "path": [
+          "Converse",
+          "Converse Chuck Taylor Run Star"
+        ],
+        "line_names": [
+          "run star"
+        ]
+      },
+      {
+        "path": [
+          "Converse",
+          "Converse All Star Pro BB"
+        ],
+        "line_names": [
+          "All Star Pro BB",
+          "All Star BB"
+        ]
+      },
+      {
+        "path": [
+          "Converse",
+          "Converse Chuck Taylor"
+        ],
+        "line_names": [
+          "chuck taylor",
+          "chuck",
+          "all star",
+          "allstar",
+          "70"
+        ],
+        "line_name_no_crop": [
+          "all star",
+          "allstar",
+          "70"
+        ]
+      },
+      {
+        "path": [
+          "Converse",
+          "Converse One Star"
+        ],
+        "line_names": [
+          "one star"
+        ]
+      },
+      {
+        "path": [
+          "Converse",
+          "Converse Pro Leather"
+        ],
+        "line_names": [
+          "Pro Leather"
+        ]
+      }
+    ],
+    "collaborations": {
+      "Nike x Off-White": {
+        "collab_brand_ids": [
+          "1245"
+        ],
+        "collab_brand_names": [
+          "off-white",
+          "off - white",
+          "off- white",
+          "off -white",
+          " off white",
+          "offwhite"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Converse x Comme des Garçons": {
+        "collab_brand_ids": [
+          "10210",
+          "10120"
+        ],
+        "collab_brand_names": [
+          " cdg ",
+          "comme des garçons",
+          "comme des garcons"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Converse x KITH": {
+        "collab_brand_ids": [
+          "10038"
+        ],
+        "collab_brand_names": [
+          "kith "
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Converse x A-Cold-Wall*": {
+        "collab_brand_ids": [
+          "10350"
+        ],
+        "collab_brand_names": [
+          "a-cold-wall*",
+          " acw "
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Converse x GOLF le FLEUR*": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "golf le fleur*",
+          "golf le fleur",
+          "golf wang",
+          "tyler, the creator"
+        ],
+        "collab_skus": [
+          "165600C",
+          "165599C",
+          "167478C",
+          "162131C",
+          "162132C",
+          "A04156C"
+        ],
+        "collab_skip_names": []
+      },
+      "Converse x JW Anderson": {
+        "collab_brand_ids": [
+          "1001175"
+        ],
+        "collab_brand_names": [
+          "jw anderson"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Converse x Stüssy": {
+        "collab_brand_ids": [
+          "10087"
+        ],
+        "collab_brand_names": [
+          "Stüssy"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Converse x Rick Owens DRKSHDW": {
+        "collab_brand_ids": [
+          "10049"
+        ],
+        "collab_brand_names": [
+          "rick owens drkshdw",
+          "rick owens"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "10458": {
+    "brand_names": [
+      "COOLALPACA"
+    ]
+  },
+  "1005404": {
+    "brand_names": [
+      "Coperni"
+    ]
+  },
+  "1000363": {
+    "brand_names": [
+      "Crocs"
+    ],
+    "collaborations": {
+      "Crocs x Salehe Bembury": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "salehe bembury",
+          "salehe bembur"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "1001775": {
+    "brand_names": [
+      "Cubic"
+    ]
+  },
+  "1009672": {
+    "brand_names": [
+      "Cult Gaia"
+    ]
+  },
+  "1000691": {
+    "brand_names": [
+      "Daisy Fellowes"
+    ]
+  },
+  "10224": {
+    "brand_names": [
+      "Dangerouspeople"
+    ]
+  },
+  "1008772": {
+    "brand_names": [
+      "Daphne"
+    ]
+  },
+  "1000422": {
+    "brand_names": [
+      "DC Shoes"
+    ]
+  },
+  "1000280": {
+    "brand_names": [
+      "Delvaux"
+    ]
+  },
+  "1003627": {
+    "brand_names": [
+      "diadora"
+    ]
+  },
+  "10027": {
+    "brand_names": [
+      "Dickies"
+    ]
+  },
+  "10448": {
+    "brand_names": [
+      "Diesel"
+    ]
+  },
+  "1000938": {
+    "brand_names": [
+      "DIMC"
+    ]
+  },
+  "1005852": {
+    "brand_names": [
+      "Dime MTL"
+    ]
+  },
+  "10106": {
+    "brand_names": [
+      "Dior"
+    ],
+    "collaborations": {
+      "Dior x Birkenstock": {
+        "collab_brand_ids": [
+          "1000156"
+        ],
+        "collab_brand_names": [
+          "birkenstock"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Cactus Jack by Travis Scott x Dior": {
+        "collab_brand_ids": [
+          "1000642"
+        ],
+        "collab_brand_names": [
+          "Cactus Jack by Travis Scott",
+          "Cactus Jack Travis Scott",
+          "Travis Scott Cactus Jack",
+          "Travis Scott",
+          "Cactus Jack",
+          "Travis"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Jordan x Dior": {
+        "collab_brand_ids": [
+          "13",
+          "144"
+        ],
+        "collab_brand_names": [
+          "jordan"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "1000511": {
+    "brand_names": [
+      "DKNY"
+    ]
+  },
+  "1007398": {
+    "brand_names": [
+      "Doucal's"
+    ]
+  },
+  "10233": {
+    "brand_names": [
+      "Dr.Martens",
+      "drmartens",
+      "dr martens",
+      "dr. martens"
+    ]
+  },
+  "10205": {
+    "brand_names": [
+      "Drew House"
+    ]
+  },
+  "1001799": {
+    "brand_names": [
+      "Dries Van Noten",
+      "dvn"
+    ]
+  },
+  "1001798": {
+    "brand_names": [
+      "DSQUARED 2"
+    ]
+  },
+  "1000026": {
+    "brand_names": [
+      "EASTPAK"
+    ]
+  },
+  "1001081": {
+    "brand_names": [
+      "ELLE"
+    ]
+  },
+  "1001765": {
+    "brand_names": [
+      "EMOTIONAL WORLD"
+    ]
+  },
+  "1000656": {
+    "brand_names": [
+      "Empty Reference"
+    ]
+  },
+  "1000448": {
+    "brand_names": [
+      "Ermenegildo Zegna",
+      "Zegna"
+    ]
+  },
+  "1001829": {
+    "brand_names": [
+      "ETRO"
+    ]
+  },
+  "10167": {
+    "brand_names": [
+      "Evisu"
+    ]
+  },
+  "1006882": {
+    "brand_names": [
+      "FARFROMWHAT"
+    ]
+  },
+  "10082": {
+    "brand_names": [
+      "Fear of God",
+      "FOG"
+    ],
+    "collaborations": {
+      "Nike x Fear of God": {
+        "collab_brand_ids": [
+          "13",
+          "144"
+        ],
+        "collab_brand_names": [
+          "nike",
+          "jordan"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Vans x Fear of God": {
+        "collab_brand_ids": [
+          "9"
+        ],
+        "collab_brand_names": [
+          "vans"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Fear of God": {
+        "collab_brand_ids": [
+          "3",
+          "494",
+          "10139"
+        ],
+        "collab_brand_names": [
+          "adidas originals",
+          "adidas neo",
+          "adidas"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "10359": {
+    "brand_names": [
+      "Fear of God",
+      "FOG"
+    ],
+    "collaborations": {
+      "Nike x Fear of God": {
+        "collab_brand_ids": [
+          "13",
+          "144"
+        ],
+        "collab_brand_names": [
+          "nike",
+          "jordan"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Fear of God": {
+        "collab_brand_ids": [
+          "3",
+          "494",
+          "10139"
+        ],
+        "collab_brand_names": [
+          "adidas originals",
+          "adidas neo",
+          "adidas"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Vans x Fear of God": {
+        "collab_brand_ids": [
+          "9"
+        ],
+        "collab_brand_names": [
+          "vans"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "10023": {
+    "brand_names": [
+      "Fendi"
+    ]
+  },
+  "1000254": {
+    "brand_names": [
+      "Ferragamo"
+    ]
+  },
+  "1318": {
+    "brand_names": [
+      "Fila"
+    ]
+  },
+  "1003100": {
+    "brand_names": [
+      "Fila"
+    ]
+  },
+  "1004119": {
+    "brand_names": [
+      "FIND KAPOOR"
+    ]
+  },
+  "1000400": {
+    "brand_names": [
+      "Fjallraven"
+    ]
+  },
+  "10256": {
+    "brand_names": [
+      "Fragment Design"
+    ],
+    "collaborations": {
+      "Nike x Fragment Design": {
+        "collab_brand_ids": [
+          "13",
+          "144"
+        ],
+        "collab_brand_names": [
+          "nike",
+          "jordan"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "1002148": {
+    "brand_names": [
+      "Frame"
+    ]
+  },
+  "1004387": {
+    "brand_names": [
+      "Freak’s Store"
+    ]
+  },
+  "1008294": {
+    "brand_names": [
+      "Fred Perry"
+    ]
+  },
+  "1008356": {
+    "brand_names": [
+      "FRKM"
+    ]
+  },
+  "1000281": {
+    "brand_names": [
+      "Furla"
+    ]
+  },
+  "1003854": {
+    "brand_names": [
+      "Gallery Dept.",
+      "gallery dept",
+      "gallerydept"
+    ]
+  },
+  "1001820": {
+    "brand_names": [
+      "Ganni"
+    ]
+  },
+  "1008504": {
+    "brand_names": [
+      "Gap"
+    ],
+    "collaborations": {
+      "YEEZY x Gap": {
+        "collab_brand_ids": [
+          "10012",
+          "1152"
+        ],
+        "collab_brand_names": [
+          "yeezy"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "10006": {
+    "brand_names": [
+      "GCDS"
+    ]
+  },
+  "1004501": {
+    "brand_names": [
+      "Gianvito Rossi"
+    ]
+  },
+  "10112": {
+    "brand_names": [
+      "Giuseppe Zanotti",
+      "Giuseppe Zanotti/GZ"
+    ]
+  },
+  "10019": {
+    "brand_names": [
+      "Givenchy"
+    ]
+  },
+  "10100": {
+    "brand_names": [
+      "Golden Goose"
+    ]
+  },
+  "1010945": {
+    "brand_names": [
+      "GOOD"
+    ]
+  },
+  "1000258": {
+    "brand_names": [
+      "Goyard"
+    ]
+  },
+  "1007276": {
+    "brand_names": [
+      "Gramicci"
+    ]
+  },
+  "1001818": {
+    "brand_names": [
+      "Greg Lauren"
+    ]
+  },
+  "79": {
+    "brand_names": [
+      "Gucci"
+    ],
+    "collaborations": {
+      "adidas x Gucci": {
+        "collab_brand_ids": [
+          "494",
+          "10139",
+          "3"
+        ],
+        "collab_brand_names": [
+          "adidas originals",
+          "adidas neo",
+          "adidas"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "1000061": {
+    "brand_names": [
+      "GUESS"
+    ]
+  },
+  "1000578": {
+    "brand_names": [
+      "Guidi"
+    ]
+  },
+  "1014427": {
+    "brand_names": [
+      "H&M",
+      "h m",
+      "h & m"
+    ],
+    "collaborations": {
+      "H&M x Mugler": {
+        "collab_brand_ids": [
+          "1009753"
+        ],
+        "collab_brand_names": [
+          "mugler"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    }
+  },
+  "10217": {
+    "brand_names": [
+      "Harsh and Cruel"
+    ]
+  },
+  "1002812": {
+    "brand_names": [
+      "helmut lang"
+    ]
+  },
+  "10223": {
+    "brand_names": [
+      "HERMES"
+    ]
+  },
+  "10094": {
+    "brand_names": [
+      "Heron Preston"
+    ]
+  },
+  "10184": {
+    "brand_names": [
+      "Herschel"
+    ]
+  },
+  "1012433": {
+    "brand_names": [
+      "HLA"
+    ]
+  },
+  "1004217": {
+    "brand_names": [
+      "Hogan"
+    ]
+  },
+  "10246": {
+    "brand_names": [
+      "Hoka One One"
+    ]
+  },
+  "10446": {
+    "brand_names": [
+      "Hugo Boss",
+      "boss",
+      "hugo"
+    ]
+  },
+  "10219": {
+    "brand_names": [
+      "Human Made"
+    ],
+    "collaborations": {
+      "adidas x Human Made": {
+        "collab_brand_ids": [
+          "3",
+          "494",
+          "10139"
+        ],
+        "collab_brand_names": [
+          "adidas originals",
+          "adidas neo",
+          "adidas"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "10057": {
+    "brand_names": [
+      "ICONS Lab"
+    ]
+  },
+  "10051": {
+    "brand_names": [
+      "IH NOM UH NIT"
+    ]
+  },
+  "1001455": {
+    "brand_names": [
+      "INJOYLIFE"
+    ]
+  },
+  "1004780": {
+    "brand_names": [
+      "IRO"
+    ]
+  },
+  "1001823": {
+    "brand_names": [
+      "ISABEL MARANT"
+    ]
+  },
+  "10349": {
+    "brand_names": [
+      "ISSEY MIYAKE"
+    ]
+  },
+  "1000278": {
+    "brand_names": [
+      "Jacquemus"
+    ]
+  },
+  "1009164": {
+    "brand_names": [
+      "JANE KLAIN"
+    ]
+  },
+  "1001452": {
+    "brand_names": [
+      "Jil Sander"
+    ]
+  },
+  "10370": {
+    "brand_names": [
+      "Jimmy Choo"
+    ]
+  },
+  "1007414": {
+    "brand_names": [
+      "John Lobb"
+    ]
+  },
+  "10399": {
+    "brand_names": [
+      "John Richmond"
+    ]
+  },
+  "13": {
+    "brand_names": [
+      "Jordan"
+    ],
+    "many_lines": false,
+    "lines": [
+      {
+        "path": [
+          "Jordan",
+          "Jordan Tatum"
+        ],
+        "line_names": [
+          "tatum"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Jordan Legacy"
+        ],
+        "line_names": [
+          "legacy"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Jordan Why Not"
+        ],
+        "line_names": [
+          "Why Not",
+          "威少",
+          "Zer0",
+          "Zer0."
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Jordan Zion"
+        ],
+        "line_names": [
+          "Jordan Zion"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Jordan Luka"
+        ],
+        "line_names": [
+          "Luka"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 10"
+        ],
+        "line_names": [
+          "Air Jordan 10 ",
+          "air jordan retro 10 ",
+          "jordan 10 ",
+          "jordan retro 10 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 11"
+        ],
+        "line_names": [
+          "Air Jordan 11 ",
+          "air jordan retro 11 ",
+          "jordan 11 ",
+          "jordan retro 11 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 12"
+        ],
+        "line_names": [
+          "Air Jordan 12 ",
+          "air jordan retro 12 ",
+          "jordan 12 ",
+          "jordan retro 12 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 13"
+        ],
+        "line_names": [
+          "Air Jordan 13 ",
+          "air jordan retro 13 ",
+          "jordan 13 ",
+          "jordan retro 13 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 14"
+        ],
+        "line_names": [
+          "Air Jordan 14 ",
+          "air jordan retro 14 ",
+          "jordan 14 ",
+          "jordan retro 14 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 15"
+        ],
+        "line_names": [
+          "Air Jordan 15 ",
+          "air jordan retro 15 ",
+          "jordan 15 ",
+          "jordan retro 15 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 1",
+          "Air Jordan 1 Low"
+        ],
+        "line_names": [
+          "Air Jordan 1 low",
+          "Air Jordan low 1 ",
+          "Air Jordan 1 retro low",
+          "air jordan retro 1 low",
+          "air jordan retro high 1 ",
+          "jordan 1 low",
+          "jordan low 1 ",
+          "jordan retro 1 low",
+          "jordan retro high 1 ",
+          "jordan 1 retro low"
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 1",
+          "Air Jordan 1 Mid"
+        ],
+        "line_names": [
+          "Air Jordan 1 mid",
+          "Air Jordan mid 1 ",
+          "Air Jordan 1 retro mid",
+          "air jordan retro 1 mid",
+          "air jordan retro high 1 ",
+          "jordan 1 mid",
+          "jordan mid 1 ",
+          "jordan retro 1 mid",
+          "jordan retro high 1 ",
+          "jordan 1 retro mid"
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 1",
+          "Air Jordan 1 High"
+        ],
+        "line_names": [
+          "Air Jordan 1 high",
+          "Air Jordan high 1 ",
+          "Air Jordan 1 retro high",
+          "air jordan retro 1 high",
+          "air jordan retro high 1 ",
+          "jordan 1 high",
+          "jordan high 1 ",
+          "jordan retro 1 high",
+          "jordan retro high 1 ",
+          "jordan 1 retro high",
+          "Air Jordan 1 hi "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 1",
+          "Другие Air Jordan 1"
+        ],
+        "line_names": [
+          "Air Jordan 1 ",
+          "Air Jordan retro 1 ",
+          "jordan 1 ",
+          "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 2"
+        ],
+        "line_names": [
+          "Air Jordan 2 ",
+          "Air Jordan retro 2 ",
+          "jordan 2 ",
+          "jordan retro 2 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 3"
+        ],
+        "line_names": [
+          "Air Jordan 3 ",
+          "Air Jordan retro 3 ",
+          "jordan 3 ",
+          "jordan retro 3 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 4"
+        ],
+        "line_names": [
+          "Air Jordan 4 ",
+          "Air Jordan retro 4 ",
+          "jordan 4 ",
+          "jordan retro 4 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 5"
+        ],
+        "line_names": [
+          "Air Jordan 5 ",
+          "Air Jordan retro 5 ",
+          "jordan 5 ",
+          "jordan retro 5 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 6"
+        ],
+        "line_names": [
+          "Air Jordan 6 ",
+          "Air Jordan retro 6 ",
+          "jordan 6 ",
+          "jordan retro 6 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 7"
+        ],
+        "line_names": [
+          "Air Jordan 7 ",
+          "Air Jordan retro 7 ",
+          "jordan 7 ",
+          "jordan retro 7 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 8"
+        ],
+        "line_names": [
+          "Air Jordan 8 ",
+          "Air Jordan retro 8 ",
+          "jordan 8 ",
+          "jordan retro 8 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 9"
+        ],
+        "line_names": [
+          "Air Jordan 9 ",
+          "Air Jordan retro 9 ",
+          "jordan 9 ",
+          "jordan retro 9 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      }
+    ],
+    "collaborations": {
+      "Nike x Off-White": {
+        "collab_brand_ids": [
+          "1245"
+        ],
+        "collab_brand_names": [
+          "off-white",
+          "off - white",
+          "off- white",
+          "off -white",
+          "off white",
+          "offwhite"
+        ],
+        "collab_skus": [
+          "DN1760-247",
+          "DN1703-010",
+          "DN1760-010"
+        ],
+        "collab_skip_names": []
+      },
+      "Nike x Travis Scott": {
+        "collab_brand_ids": [
+          "1000642"
+        ],
+        "collab_brand_names": [
+          "cactus jack travis scott",
+          "travis scott cactus jack",
+          "travis scott",
+          "travis ",
+          "cactus jack",
+          "cact.us corp",
+          " scott ",
+          "cactusjack"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x Supreme": {
+        "collab_brand_ids": [
+          "439"
+        ],
+        "collab_brand_names": [
+          "supreme"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x Union": {
+        "collab_brand_ids": [
+          "1005854"
+        ],
+        "collab_brand_names": [
+          "union",
+          "union la"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x UNDEFEATED": {
+        "collab_brand_ids": [
+          "10141"
+        ],
+        "collab_brand_names": [
+          "undefeated",
+          "undftd"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x Billie Eilish": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "billie eilish"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Jordan x Trophy Room": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "trophy room"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Jordan x Just Don": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "just don"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Jordan x J.Balvin": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "j balvin",
+          "j. balvin",
+          "jbalvin",
+          "j.balvin"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Jordan x Dior": {
+        "collab_brand_ids": [
+          "10106"
+        ],
+        "collab_brand_names": [
+          "dior"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x Sacai": {
+        "collab_brand_ids": [
+          "1000042"
+        ],
+        "collab_brand_names": [
+          "sacai"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x Clot": {
+        "collab_brand_ids": [
+          "10066"
+        ],
+        "collab_brand_names": [
+          "clot"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x Fragment Design": {
+        "collab_brand_ids": [
+          "10256"
+        ],
+        "collab_brand_names": [
+          "fragment design",
+          "fragmentdesign",
+          "frgmnt"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Jordan x OVO": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          " ovo "
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x A Ma Maniére": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "a ma maniére",
+          "ma maniére",
+          "a ma maniere",
+          "ma maniere",
+          "a ma mani?re",
+          "ma mani?re",
+          "maniere",
+          "maniére",
+          "mani?re"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x Patta": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          " patta "
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x Comme des Garçons": {
+        "collab_brand_ids": [
+          "10210",
+          "10120"
+        ],
+        "collab_brand_names": [
+          "cdg",
+          "comme des garçons",
+          "comme des garcons"
+        ],
+        "collab_skus": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "1001175": {
+    "brand_names": [
+      "JW Anderson"
+    ],
+    "collaborations": {
+      "Converse x JW Anderson": {
+        "collab_brand_ids": [
+          "176"
+        ],
+        "collab_brand_names": [
+          "converse"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "1000047": {
+    "brand_names": [
+      "Kangol"
+    ]
+  },
+  "10387": {
+    "brand_names": [
+      "Kappa"
+    ]
+  },
+  "10117": {
+    "brand_names": [
+      "Karl Lagerfeld"
+    ]
+  },
+  "1001897": {
+    "brand_names": [
+      "kate spade"
+    ]
+  },
+  "421": {
+    "brand_names": [
+      "Kaws"
+    ],
+    "collaborations": {
+      "UNIQLO x Kaws": {
+        "collab_brand_ids": [
+          "10107"
+        ],
+        "collab_brand_names": [
+          "uniqlo"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "10014": {
+    "brand_names": [
+      "Kenzo"
+    ]
+  },
+  "1001839": {
+    "brand_names": [
+      "Khrisjoy"
+    ]
+  },
+  "10038": {
+    "brand_names": [
+      "KITH"
+    ],
+    "collaborations": {
+      "adidas x KITH": {
+        "collab_brand_ids": [
+          "3",
+          "494",
+          "10139"
+        ],
+        "collab_brand_names": [
+          "adidas originals",
+          "adidas neo",
+          "adidas"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Asics x KITH": {
+        "collab_brand_ids": [
+          "8"
+        ],
+        "collab_brand_names": [
+          "Asics"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Converse x KITH": {
+        "collab_brand_ids": [
+          "176"
+        ],
+        "collab_brand_names": [
+          "converse"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "New Balance x KITH": {
+        "collab_brand_ids": [
+          "4"
+        ],
+        "collab_brand_names": [
+          "new balance",
+          "nb"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "1009660": {
+    "brand_names": [
+      "Kiton"
+    ]
+  },
+  "1000321": {
+    "brand_names": [
+      "Kreate"
+    ]
+  },
+  "1001349": {
+    "brand_names": [
+      "L&R Power"
+    ]
+  },
+  "1000101": {
+    "brand_names": [
+      "Lacoste"
+    ],
+    "collaborations": {
+      "Supreme x Lacoste": {
+        "collab_brand_ids": [
+          "439"
+        ],
+        "collab_brand_names": [
+          "supreme"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [
+          "SUP-SS18-588",
+          "SUP-SS18-518"
+        ],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "1001003": {
+    "brand_names": [
+      "Lanvin"
+    ]
+  },
+  "10011896": {
+    "brand_names": [
+      "Lemaire"
+    ]
+  },
+  "10195": {
+    "brand_names": [
+      "Levi's",
+      "levis"
+    ],
+    "collaborations": {
+      "Supreme x Levi's": {
+        "collab_brand_ids": [
+          "439"
+        ],
+        "collab_brand_names": [
+          "supreme"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "33": {
+    "brand_names": [
+      "Li-Ning",
+      "Li-Ning李宁",
+      "Lining李宁",
+      "Lining",
+      "li ning",
+      "李宁"
+    ],
+    "many_lines": false,
+    "lines": [
+      {
+        "path": [
+          "Li-Ning",
+          "Li-Ning Way Of Wade"
+        ],
+        "line_names": [
+          "Wade",
+          "WOW",
+          "韦德系列",
+          "韦德之道",
+          "全城"
+        ]
+      },
+      {
+        "path": [
+          "Li-Ning",
+          "Li-Ning Yushuai"
+        ],
+        "line_names": [
+          "驭帅"
+        ]
+      },
+      {
+        "path": [
+          "Li-Ning",
+          "Li-Ning Sonic"
+        ],
+        "line_names": [
+          "音速"
+        ]
+      },
+      {
+        "path": [
+          "Li-Ning",
+          "Li-Ning Speed"
+        ],
+        "line_names": [
+          "闪击"
+        ]
+      }
+    ]
+  },
+  "1000346": {
+    "brand_names": [
+      "lilbetter"
+    ]
+  },
+  "1004873": {
+    "brand_names": [
+      "Lily Wei",
+      "Lily We"
+    ]
+  },
+  "1003521": {
+    "brand_names": [
+      "LIU·JO",
+      "LIU JO",
+      "LIU·JO UOMO"
+    ]
+  },
+  "1012509": {
+    "brand_names": [
+      "Loake"
+    ]
+  },
+  "10320": {
+    "brand_names": [
+      "Loewe"
+    ]
+  },
+  "10345": {
+    "brand_names": [
+      "Longchamp"
+    ]
+  },
+  "10022": {
+    "brand_names": [
+      "Longines"
+    ]
+  },
+  "1001088": {
+    "brand_names": [
+      "Loro Piana"
+    ]
+  },
+  "10176": {
+    "brand_names": [
+      "Louis Vuitton"
+    ],
+    "collaborations": {
+      "Nike x Louis Vuitton": {
+        "collab_brand_ids": [
+          "144"
+        ],
+        "collab_brand_names": [
+          "nike"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "1007400": {
+    "brand_names": [
+      "Mach & Mach",
+      "Mach&Mach"
+    ]
+  },
+  "1000891": {
+    "brand_names": [
+      "Maison Kitsune"
+    ]
+  },
+  "10423": {
+    "brand_names": [
+      "Maison Margiela"
+    ]
+  },
+  "1001344": {
+    "brand_names": [
+      "Maison Margiela"
+    ]
+  },
+  "1000353": {
+    "brand_names": [
+      "MAISON MIHARA YASUHIRO",
+      "mihara",
+      "mihara yasuhiro"
+    ]
+  },
+  "1002515": {
+    "brand_names": [
+      "Maje"
+    ]
+  },
+  "1007808": {
+    "brand_names": [
+      "Malone Souliers"
+    ]
+  },
+  "1000044": {
+    "brand_names": [
+      "Manolo Blahnik"
+    ]
+  },
+  "1001881": {
+    "brand_names": [
+      "Manu Atelier"
+    ]
+  },
+  "10208": {
+    "brand_names": [
+      "MARC JACOBS"
+    ]
+  },
+  "10009": {
+    "brand_names": [
+      "Marcelo Burlon"
+    ]
+  },
+  "1000616": {
+    "brand_names": [
+      "marine serre"
+    ]
+  },
+  "1000259": {
+    "brand_names": [
+      "Marni"
+    ]
+  },
+  "1003139": {
+    "brand_names": [
+      "Martine Rose"
+    ]
+  },
+  "1014063": {
+    "brand_names": [
+      "Massimo Dutti"
+    ]
+  },
+  "1000330": {
+    "brand_names": [
+      "MaxMara"
+    ]
+  },
+  "1001303": {
+    "brand_names": [
+      "MaxMara"
+    ]
+  },
+  "10047": {
+    "brand_names": [
+      "MCM"
+    ]
+  },
+  "10230": {
+    "brand_names": [
+      "Michael Kors"
+    ]
+  },
+  "1005639": {
+    "brand_names": [
+      "MIKASA"
+    ]
+  },
+  "1000824": {
+    "brand_names": [
+      "MISBHV"
+    ]
+  },
+  "1001822": {
+    "brand_names": [
+      "Missoni"
+    ]
+  },
+  "10043": {
+    "brand_names": [
+      "Mitchell & Ness"
+    ]
+  },
+  "10330": {
+    "brand_names": [
+      "MIU MIU"
+    ]
+  },
+  "10329": {
+    "brand_names": [
+      "Mizuno"
+    ]
+  },
+  "10347": {
+    "brand_names": [
+      "MLB"
+    ]
+  },
+  "1000270": {
+    "brand_names": [
+      "Moditec"
+    ]
+  },
+  "1000905": {
+    "brand_names": [
+      "molten"
+    ]
+  },
+  "10046": {
+    "brand_names": [
+      "Moncler"
+    ]
+  },
+  "1001813": {
+    "brand_names": [
+      "Moncler"
+    ]
+  },
+  "1004949": {
+    "brand_names": [
+      "Moncler"
+    ]
+  },
+  "1000626": {
+    "brand_names": [
+      "Moose Knuckles"
+    ]
+  },
+  "10053": {
+    "brand_names": [
+      "Moschino"
+    ]
+  },
+  "1001884": {
+    "brand_names": [
+      "Moschino"
+    ]
+  },
+  "10132": {
+    "brand_names": [
+      "MostwantedLab"
+    ]
+  },
+  "1001824": {
+    "brand_names": [
+      "Mother"
+    ]
+  },
+  "1011993": {
+    "brand_names": [
+      "MSCHF R"
+    ]
+  },
+  "10074": {
+    "brand_names": [
+      "MSGM"
+    ]
+  },
+  "1009753": {
+    "brand_names": [
+      "Mugler"
+    ],
+    "collaborations": {
+      "H&M x Mugler": {
+        "collab_brand_ids": [
+          "1014427"
+        ],
+        "collab_brand_names": [
+          "H&M",
+          "h m",
+          "h & m"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    }
+  },
+  "1001885": {
+    "brand_names": [
+      "Mulberry"
+    ]
+  },
+  "1012052": {
+    "brand_names": [
+      "Naked Wolfe",
+      "nw"
+    ]
+  },
+  "1004939": {
+    "brand_names": [
+      "Nana Jacqueline"
+    ]
+  },
+  "1004681": {
+    "brand_names": [
+      "nanamica"
+    ]
+  },
+  "1001819": {
+    "brand_names": [
+      "Nanushka"
+    ]
+  },
+  "1000723": {
+    "brand_names": [
+      "NBA"
+    ]
+  },
+  "1000062": {
+    "brand_names": [
+      "Needles"
+    ]
+  },
+  "4983": {
+    "brand_names": [
+      "NEIGHBORHOOD"
+    ]
+  },
+  "10013": {
+    "brand_names": [
+      "Neil Barrett",
+      "neil barret",
+      "neil barett"
+    ]
+  },
+  "4": {
+    "brand_names": [
+      "New Balance",
+      "NB"
+    ],
+    "many_lines": false,
+    "lines": [
+      {
+        "path": [
+          "New Balance",
+          "New Balance 237"
+        ],
+        "line_names": [
+          " 237 "
+        ]
+      },
+      {
+        "path": [
+          "New Balance",
+          "New Balance 327"
+        ],
+        "line_names": [
+          " 327 "
+        ]
+      },
+      {
+        "path": [
+          "New Balance",
+          "New Balance 530"
+        ],
+        "line_names": [
+          " 530 "
+        ]
+      },
+      {
+        "path": [
+          "New Balance",
+          "New Balance 550"
+        ],
+        "line_names": [
+          " 550 "
+        ]
+      },
+      {
+        "path": [
+          "New Balance",
+          "New Balance 574"
+        ],
+        "line_names": [
+          " 574 "
+        ]
+      },
+      {
+        "path": [
+          "New Balance",
+          "New Balance 580"
+        ],
+        "line_names": [
+          " 580 "
+        ]
+      },
+      {
+        "path": [
+          "New Balance",
+          "New Balance 650"
+        ],
+        "line_names": [
+          " 650 "
+        ]
+      },
+      {
+        "path": [
+          "New Balance",
+          "New Balance 990"
+        ],
+        "line_names": [
+          " 990 "
+        ]
+      },
+      {
+        "path": [
+          "New Balance",
+          "New Balance 991"
+        ],
+        "line_names": [
+          " 991 "
+        ]
+      },
+      {
+        "path": [
+          "New Balance",
+          "New Balance 992"
+        ],
+        "line_names": [
+          " 992 "
+        ]
+      },
+      {
+        "path": [
+          "New Balance",
+          "New Balance 993"
+        ],
+        "line_names": [
+          " 993 "
+        ]
+      },
+      {
+        "path": [
+          "New Balance",
+          "New Balance 997"
+        ],
+        "line_names": [
+          " 997 "
+        ]
+      },
+      {
+        "path": [
+          "New Balance",
+          "New Balance 9060"
+        ],
+        "line_names": [
+          "9060"
+        ]
+      },
+      {
+        "path": [
+          "New Balance",
+          "New Balance 1906R"
+        ],
+        "line_names": [
+          "1906r"
+        ]
+      },
+      {
+        "path": [
+          "New Balance",
+          "New Balance 2002R"
+        ],
+        "line_names": [
+          "2002R"
+        ]
+      },
+      {
+        "path": [
+          "New Balance",
+          "New Balance 57/40"
+        ],
+        "line_names": [
+          "57/40",
+          "5740"
+        ]
+      }
+    ],
+    "collaborations": {
+      "New Balance x JJJJound": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "jjjjound"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "New Balance x Concepts": {
+        "collab_brand_ids": [
+          "1001109"
+        ],
+        "collab_brand_names": [
+          "concepts"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "New Balance x Bodega": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "bodega"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "New Balance x KITH": {
+        "collab_brand_ids": [
+          "10038"
+        ],
+        "collab_brand_names": [
+          "kith"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "New Balance x Joe Freshgoods": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "joe freshgoods"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "New Balance x Casablanca": {
+        "collab_brand_ids": [
+          "1001817"
+        ],
+        "collab_brand_names": [
+          "casablanca"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "New Balance x Salehe Bembury": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "salehe bembury",
+          "salehe bembur"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "New Balance x Aimé Leon Dore": {
+        "collab_brand_ids": [
+          "1008501"
+        ],
+        "collab_brand_names": [
+          "aimé leon dore",
+          "aime leon dore"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "New Balance x Stone Island": {
+        "collab_brand_ids": [
+          "10215"
+        ],
+        "collab_brand_names": [
+          "stone island"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "New Balance x Atmos": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          " atmos "
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "10097": {
+    "brand_names": [
+      "New Era"
+    ]
+  },
+  "144": {
+    "brand_names": [
+      "Nike"
+    ],
+    "many_lines": false,
+    "lines": [
+      {
+        "path": [
+          "Nike",
+          "Nike Air Max",
+          "Nike Air Max 1"
+        ],
+        "line_names": [
+          "air max 1 "
+        ]
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Air Max",
+          "Nike Air Max 90"
+        ],
+        "line_names": [
+          "air max 90 "
+        ]
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Air Max",
+          "Nike Air Max 95"
+        ],
+        "line_names": [
+          "air max 95 "
+        ]
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Air Max",
+          "Nike Air Max 97"
+        ],
+        "line_names": [
+          "air max 97 ",
+          "air 97 ",
+          "max 97 "
+        ]
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Air Max",
+          "Nike Air Max 98"
+        ],
+        "line_names": [
+          "air max 98 ",
+          "air 98 ",
+          "max 98 "
+        ]
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Air Max",
+          "Nike Air Max 270"
+        ],
+        "line_names": [
+          "air max 270 ",
+          "air 270 ",
+          "max 270 "
+        ]
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Air Max",
+          "Nike Air Max 720"
+        ],
+        "line_names": [
+          "air max 720 ",
+          "air 720 ",
+          "max 720 "
+        ]
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike VaporMax"
+        ],
+        "line_names": [
+          "vapormax",
+          "vapor max"
+        ]
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Air Max",
+          "Другие Nike Air Max"
+        ],
+        "line_names": [
+          "air max"
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Blazer",
+          "Nike Blazer Low"
+        ],
+        "line_names": [
+          "blazer low",
+          "low blazer",
+          "blazer sb low",
+          "low sb blazer"
+        ],
+        "line_skip_names": [],
+        "line_name_no_crop": [
+          "sb"
+        ]
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Blazer",
+          "Nike Blazer Mid"
+        ],
+        "line_names": [
+          "blazer mid",
+          "mid blazer",
+          "blazer sb mid",
+          "mid sb blazer"
+        ],
+        "line_skip_names": [],
+        "line_name_no_crop": [
+          "sb"
+        ]
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Blazer",
+          "Nike Blazer High"
+        ],
+        "line_names": [
+          "blazer high",
+          "high blazer",
+          "blazer sb high",
+          "high sb blazer"
+        ],
+        "line_skip_names": [],
+        "line_name_no_crop": [
+          "sb"
+        ]
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Blazer",
+          "Другие Nike Blazer"
+        ],
+        "line_names": [
+          "blazer"
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Dunk",
+          "Nike Dunk Low"
+        ],
+        "line_names": [
+          "dunk low",
+          "low dunk",
+          "dunk pro low",
+          "low pro dunk",
+          "dunk sb low",
+          "low sb dunk",
+          "dunk sb pro low",
+          "dunk pro sb low",
+          "low pro sb dunk",
+          "low sb pro dunk"
+        ],
+        "line_skip_names": [],
+        "line_name_no_crop": [
+          "pro sb",
+          "sb pro",
+          "pro",
+          "sb"
+        ]
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Dunk",
+          "Nike Dunk Mid"
+        ],
+        "line_names": [
+          "dunk mid",
+          "mid dunk",
+          "dunk pro mid",
+          "mid pro dunk",
+          "dunk sb mid",
+          "mid sb dunk",
+          "dunk sb pro mid",
+          "dunk pro sb mid",
+          "mid pro sb dunk",
+          "mid sb pro dunk"
+        ],
+        "line_skip_names": [],
+        "line_name_no_crop": [
+          "pro sb",
+          "sb pro",
+          "pro",
+          "sb"
+        ]
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Dunk",
+          "Nike Dunk High"
+        ],
+        "line_names": [
+          "dunk high",
+          "high dunk",
+          "dunk pro high",
+          "high pro dunk",
+          "dunk sb high",
+          "high sb dunk",
+          "dunk sb pro high",
+          "dunk pro sb high",
+          "high pro sb dunk",
+          "high sb pro dunk"
+        ],
+        "line_skip_names": [],
+        "line_name_no_crop": [
+          "pro sb",
+          "sb pro",
+          "pro",
+          "sb"
+        ]
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Dunk",
+          "Другие Nike Dunk"
+        ],
+        "line_names": [
+          "dunk"
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Freak (Giannis Antetokounmpo)"
+        ],
+        "line_names": [
+          "giannis antetokounmpo",
+          "giannis",
+          "freak"
+        ],
+        "line_skip_names": [],
+        "line_name_no_crop": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike KD (Kevin Durant)"
+        ],
+        "line_names": [
+          "kevin durant",
+          "kd",
+          "durant"
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Kobe Bryant"
+        ],
+        "line_names": [
+          "kobe bryant",
+          "kobe",
+          "mamba"
+        ],
+        "line_name_no_crop": [
+          "mamba"
+        ]
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Kyrie Irving"
+        ],
+        "line_names": [
+          "kyrie irving",
+          "kyrie"
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Ja Morant"
+        ],
+        "line_names": [
+          "ja morant",
+          " ja "
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike LeBron James"
+        ],
+        "line_names": [
+          "lebron james",
+          "lebron",
+          "le bron"
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike PG (Paul George)"
+        ],
+        "line_names": [
+          "paul george",
+          " pg "
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Air Force 1",
+          "Nike Air Force 1 Low"
+        ],
+        "line_names": [
+          "air force 1 low",
+          "af1 low"
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Air Force 1",
+          "Nike Air Force 1 Mid"
+        ],
+        "line_names": [
+          "air force 1 mid",
+          "af1 mid"
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Air Force 1",
+          "Nike Air Force 1 High"
+        ],
+        "line_names": [
+          "air force 1 high",
+          "af1 high"
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Air Force 1",
+          "Другие Nike Air Force 1"
+        ],
+        "line_names": [
+          "air force 1",
+          "af1"
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Cortez"
+        ],
+        "line_names": [
+          "cortez"
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Foamposite"
+        ],
+        "line_names": [
+          "foamposite"
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Air Trainer"
+        ],
+        "line_names": [
+          "air trainer"
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Air Huarache"
+        ],
+        "line_names": [
+          "air huarache",
+          "huarache"
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Air Presto"
+        ],
+        "line_names": [
+          "air presto",
+          "presto"
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Air More Uptempo"
+        ],
+        "line_names": [
+          "air more uptempo",
+          "air uptempo",
+          "more uptempo",
+          "uptempo"
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Zoom"
+        ],
+        "line_names": [
+          "zoom"
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike React"
+        ],
+        "line_names": [
+          "react "
+        ],
+        "line_skip_names": []
+      }
+    ],
+    "collaborations": {
+      "Nike x Off-White": {
+        "collab_brand_ids": [
+          "1245"
+        ],
+        "collab_brand_names": [
+          "off-white",
+          "off - white",
+          "off- white",
+          "off -white",
+          "off white",
+          "offwhite"
+        ],
+        "collab_skus": [
+          "DN1760-247",
+          "DN1703-010",
+          "DN1760-010"
+        ],
+        "collab_skip_names": []
+      },
+      "Nike x Travis Scott": {
+        "collab_brand_ids": [
+          "1000642"
+        ],
+        "collab_brand_names": [
+          "cactus jack travis scott",
+          "travis scott cactus jack",
+          "travis scott",
+          "travis ",
+          "cactus jack",
+          " scott ",
+          "cact.us corp",
+          "cactusjack"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x Supreme": {
+        "collab_brand_ids": [
+          "439"
+        ],
+        "collab_brand_names": [
+          "supreme"
+        ],
+        "collab_skus": []
+      },
+      "Nike x Comme des Garçons": {
+        "collab_brand_ids": [
+          "10210"
+        ],
+        "collab_brand_names": [
+          "cdg",
+          "comme des garçons",
+          "comme des garcons"
+        ],
+        "collab_skus": []
+      },
+      "Nike x Union": {
+        "collab_brand_ids": [
+          "1005854"
+        ],
+        "collab_brand_names": [
+          "union",
+          "union la"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x Louis Vuitton": {
+        "collab_brand_ids": [
+          "10176"
+        ],
+        "collab_brand_names": [
+          "louis vuitton"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x Sacai": {
+        "collab_brand_ids": [
+          "1000042"
+        ],
+        "collab_brand_names": [
+          "sacai"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x Clot": {
+        "collab_brand_ids": [
+          "10066"
+        ],
+        "collab_brand_names": [
+          "clot"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x ACRONYM": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "acronym"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x Drake NOCTA": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "nocta",
+          "drake nocta",
+          "nocta drake"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x Stüssy": {
+        "collab_brand_ids": [
+          "10087"
+        ],
+        "collab_brand_names": [
+          "stüssy",
+          "stussy"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x Ambush": {
+        "collab_brand_ids": [
+          "10119"
+        ],
+        "collab_brand_names": [
+          "ambush"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x Atmos": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          " atmos "
+        ],
+        "collab_skus": [
+          "BV7406-001",
+          "AQ0928-900",
+          "BQ6817-009",
+          "910772-001",
+          "AQ0928-901",
+          "CI3358-800",
+          "CD9471-800",
+          "CD2563-002",
+          "CW3153-200"
+        ],
+        "collab_skip_names": []
+      },
+      "Nike x Fear of God": {
+        "collab_brand_ids": [
+          "10359",
+          "10082"
+        ],
+        "collab_brand_names": [
+          "fear of god"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x Jacquemus": {
+        "collab_brand_ids": [
+          "1000278"
+        ],
+        "collab_brand_names": [
+          "jacquemus"
+        ],
+        "collab_skus": [
+          "226JS157-2396-110"
+        ],
+        "collab_skip_names": []
+      },
+      "Nike x Tom Sachs": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "tom sachs"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x UNDERCOVER": {
+        "collab_brand_ids": [
+          "3023"
+        ],
+        "collab_brand_names": [
+          "undercover"
+        ],
+        "collab_skus": [
+          "BV4594-700",
+          "BV4594-400",
+          "BV4594-001",
+          "DD1789-200",
+          "DD1789-100",
+          "DD1789-001",
+          "BQ2718-300",
+          "BQ2718-200",
+          "BQ2718-400",
+          "BQ2718-700",
+          "DQ7558-002",
+          "DQ7558-101",
+          "DQ7558-001",
+          "DD9401-600",
+          "DQ4121-001",
+          "DQ4121-100",
+          "CJ3295-600",
+          "CJ3295-300",
+          "CJ3295-001",
+          "CJ3295-400"
+        ],
+        "collab_skip_names": []
+      },
+      "Nike x Concepts": {
+        "collab_brand_ids": [
+          "1001109"
+        ],
+        "collab_brand_names": [
+          "concepts"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x Peaceminusone": {
+        "collab_brand_ids": [
+          "1000178"
+        ],
+        "collab_brand_names": [
+          "peaceminusone"
+        ],
+        "collab_skus": [
+          "DR0098-100"
+        ],
+        "collab_skip_names": []
+      },
+      "Nike x UNDEFEATED": {
+        "collab_brand_ids": [
+          "10141"
+        ],
+        "collab_brand_names": [
+          "undefeated",
+          "undftd"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x Bodega": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "bodega"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x Billie Eilish": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "billie eilish"
+        ],
+        "collab_skus": [
+          "DM7926-200",
+          "DQ4137-300",
+          "DQ4137-200"
+        ],
+        "collab_skip_names": []
+      },
+      "Nike x Fragment Design": {
+        "collab_brand_ids": [
+          "10256"
+        ],
+        "collab_brand_names": [
+          "fragment design",
+          "frgmnt"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x KITH": {
+        "collab_brand_ids": [
+          "10038"
+        ],
+        "collab_brand_names": [
+          "kith"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x A-Cold-Wall*": {
+        "collab_brand_ids": [
+          "10350"
+        ],
+        "collab_brand_names": [
+          "a-cold-wall*",
+          "acw"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x Parra": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "parra"
+        ],
+        "collab_skus": [
+          "DH7695-600"
+        ],
+        "collab_skip_names": []
+      },
+      "Nike x Patta": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "patta"
+        ],
+        "collab_skus": [
+          "DQ0299-001"
+        ],
+        "collab_skip_names": []
+      },
+      "Nike x Cactus Plant Flea Market": {
+        "collab_brand_ids": [
+          "1002600"
+        ],
+        "collab_brand_names": [
+          "cactus plant flea market",
+          "cpfm"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x A Ma Maniére": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "a ma maniére",
+          "ma maniére",
+          "a ma maniere",
+          "ma maniere",
+          "a ma mani?re",
+          "ma mani?re",
+          "maniere",
+          "maniére",
+          "mani?re"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x MMW": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "mmw"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "many_collaborations": false
+    }
+  },
+  "1222": {
+    "brand_names": [
+      "NOAH"
+    ]
+  },
+  "1005751": {
+    "brand_names": [
+      "NOMK"
+    ]
+  },
+  "1000559": {
+    "brand_names": [
+      "NORVINCY"
+    ]
+  },
+  "1000397": {
+    "brand_names": [
+      "Nothomme"
+    ]
+  },
+  "1002799": {
+    "brand_names": [
+      "N°21",
+      "N 21",
+      "N21",
+      "№21"
+    ]
+  },
+  "1000669": {
+    "brand_names": [
+      "Oakley"
+    ]
+  },
+  "1009055": {
+    "brand_names": [
+      "Ocai"
+    ]
+  },
+  "1245": {
+    "brand_names": [
+      "Off-White",
+      "Off white",
+      "offwhite",
+      "off - white",
+      "off- white",
+      "off -white"
+    ],
+    "collaborations": {
+      "Converse x Off-White": {
+        "collab_brand_ids": [
+          "176"
+        ],
+        "collab_brand_names": [
+          "converse"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x Off-White": {
+        "collab_brand_ids": [
+          "13",
+          "144"
+        ],
+        "collab_brand_names": [
+          "nike",
+          "jordan"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "1001112": {
+    "brand_names": [
+      "Old Order"
+    ]
+  },
+  "1011290": {
+    "brand_names": [
+      "ollieskate"
+    ]
+  },
+  "1000654": {
+    "brand_names": [
+      "On"
+    ]
+  },
+  "10098": {
+    "brand_names": [
+      "Onitsuka Tiger"
+    ]
+  },
+  "1005964": {
+    "brand_names": [
+      "Osiris"
+    ]
+  },
+  "1004540": {
+    "brand_names": [
+      "Our Legacy"
+    ]
+  },
+  "1000297": {
+    "brand_names": [
+      "Paco Rabanne"
+    ]
+  },
+  "577": {
+    "brand_names": [
+      "Palace"
+    ]
+  },
+  "10096": {
+    "brand_names": [
+      "Palm Angels"
+    ]
+  },
+  "10259": {
+    "brand_names": [
+      "Pandora"
+    ]
+  },
+  "1001328": {
+    "brand_names": [
+      "Paset"
+    ]
+  },
+  "10474": {
+    "brand_names": [
+      "patagonia"
+    ]
+  },
+  "1011540": {
+    "brand_names": [
+      "Paul & Shark",
+      "Paul & Shark yachting",
+      "Paul x Shark yachting",
+      "Paul&Sharkyachting"
+    ]
+  },
+  "1001909": {
+    "brand_names": [
+      "Paul Smith",
+      "PS by Paul Smith"
+    ]
+  },
+  "1001908": {
+    "brand_names": [
+      "Paul Smith"
+    ]
+  },
+  "1000178": {
+    "brand_names": [
+      "Peaceminusone"
+    ],
+    "collaborations": {
+      "Nike x Peaceminusone": {
+        "collab_brand_ids": [
+          "1000178"
+        ],
+        "collab_brand_names": [
+          "peaceminusone"
+        ],
+        "collab_skus": [
+          "DR0098-100"
+        ],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "36": {
+    "brand_names": [
+      "Peak",
+      "匹克"
+    ]
+  },
+  "10114": {
+    "brand_names": [
+      "Philipp Plein"
+    ]
+  },
+  "10348": {
+    "brand_names": [
+      "PINKO"
+    ]
+  },
+  "10209": {
+    "brand_names": [
+      "PLEASURES"
+    ]
+  },
+  "1000521": {
+    "brand_names": [
+      "Polar Skate Co."
+    ]
+  },
+  "1001716": {
+    "brand_names": [
+      "Polo Ralph Lauren",
+      "ralph lauren"
+    ]
+  },
+  "10010": {
+    "brand_names": [
+      "Prada"
+    ],
+    "collaborations": {
+      "adidas x Prada": {
+        "collab_brand_ids": [
+          "3",
+          "494",
+          "10139"
+        ],
+        "collab_brand_names": [
+          "adidas originals",
+          "adidas neo",
+          "adidas"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "10135": {
+    "brand_names": [
+      "PRBLMS"
+    ]
+  },
+  "1009104": {
+    "brand_names": [
+      "Premiata"
+    ]
+  },
+  "1011031": {
+    "brand_names": [
+      "Primeet"
+    ]
+  },
+  "1004776": {
+    "brand_names": [
+      "Proenza Schouler"
+    ]
+  },
+  "1000554": {
+    "brand_names": [
+      "Profound"
+    ]
+  },
+  "10161": {
+    "brand_names": [
+      "PSO Brand"
+    ]
+  },
+  "2": {
+    "brand_names": [
+      "PUMA"
+    ],
+    "many_lines": false,
+    "lines": [
+      {
+        "path": [
+          "PUMA",
+          "PUMA MB"
+        ],
+        "line_names": [
+          " mb"
+        ]
+      },
+      {
+        "path": [
+          "PUMA",
+          "PUMA Ralph Sampson"
+        ],
+        "line_names": [
+          "Ralph Sampson",
+          "RalphSampson"
+        ]
+      },
+      {
+        "path": [
+          "PUMA",
+          "PUMA Mirage"
+        ],
+        "line_names": [
+          "mirage"
+        ]
+      },
+      {
+        "path": [
+          "PUMA",
+          "PUMA Clyde"
+        ],
+        "line_names": [
+          "Clyde"
+        ]
+      },
+      {
+        "path": [
+          "PUMA",
+          "PUMA Smash"
+        ],
+        "line_names": [
+          "Smash"
+        ]
+      },
+      {
+        "path": [
+          "PUMA",
+          "PUMA Roma"
+        ],
+        "line_names": [
+          "Roma"
+        ]
+      },
+      {
+        "path": [
+          "PUMA",
+          "PUMA Future Rider"
+        ],
+        "line_names": [
+          "Future Rider"
+        ]
+      },
+      {
+        "path": [
+          "PUMA",
+          "PUMA Mayze"
+        ],
+        "line_names": [
+          "Mayze"
+        ]
+      },
+      {
+        "path": [
+          "PUMA",
+          "PUMA RS"
+        ],
+        "line_names": [
+          " rs "
+        ]
+      },
+      {
+        "path": [
+          "PUMA",
+          "PUMA Cali"
+        ],
+        "line_names": [
+          "cali"
+        ]
+      },
+      {
+        "path": [
+          "PUMA",
+          "PUMA Carina"
+        ],
+        "line_names": [
+          "Carina"
+        ]
+      },
+      {
+        "path": [
+          "PUMA",
+          "PUMA Ignite"
+        ],
+        "line_names": [
+          "ignite"
+        ]
+      },
+      {
+        "path": [
+          "PUMA",
+          "PUMA Suede"
+        ],
+        "line_names": [
+          "suede"
+        ]
+      },
+      {
+        "path": [
+          "PUMA",
+          "PUMA Ca Pro"
+        ],
+        "line_names": [
+          "ca pro"
+        ]
+      },
+      {
+        "path": [
+          "PUMA",
+          "PUMA Slipstream"
+        ],
+        "line_names": [
+          "slipstream"
+        ]
+      },
+      {
+        "path": [
+          "PUMA",
+          "PUMA Fusion"
+        ],
+        "line_names": [
+          "fusion"
+        ]
+      }
+    ]
+  },
+  "1000018": {
+    "brand_names": [
+      "Raf Simons"
+    ],
+    "collaborations": {
+      "adidas x Raf Simons": {
+        "collab_brand_ids": [
+          "494",
+          "10139",
+          "3"
+        ],
+        "collab_brand_names": [
+          "adidas originals",
+          "adidas neo",
+          "adidas"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "10039": {
+    "brand_names": [
+      "Randomevent"
+    ]
+  },
+  "1002866": {
+    "brand_names": [
+      "Raucohouse"
+    ]
+  },
+  "1000586": {
+    "brand_names": [
+      "Ravenous"
+    ]
+  },
+  "10253": {
+    "brand_names": [
+      "RayBan",
+      "Ray Ban"
+    ]
+  },
+  "1001801": {
+    "brand_names": [
+      "RED Valentino",
+      "Valentino"
+    ]
+  },
+  "6": {
+    "brand_names": [
+      "Reebok"
+    ],
+    "many_lines": false,
+    "lines": [
+      {
+        "path": [
+          "Reebok",
+          "Reebok Instapump Fury"
+        ],
+        "line_names": [
+          "instapump fury",
+          "instapump",
+          "fury",
+          "pump"
+        ]
+      },
+      {
+        "path": [
+          "Reebok",
+          "Reebok Club"
+        ],
+        "line_names": [
+          "club"
+        ]
+      },
+      {
+        "path": [
+          "Reebok",
+          "Reebok Classic Leather"
+        ],
+        "line_names": [
+          "classic leather"
+        ]
+      },
+      {
+        "path": [
+          "Reebok",
+          "Reebok Zig Kinetica"
+        ],
+        "line_names": [
+          "zig kinetica"
+        ]
+      },
+      {
+        "path": [
+          "Reebok",
+          "Reebok Question"
+        ],
+        "line_names": [
+          "question"
+        ]
+      },
+      {
+        "path": [
+          "Reebok",
+          "Reebok Workout"
+        ],
+        "line_names": [
+          "workout"
+        ]
+      }
+    ]
+  },
+  "1001193": {
+    "brand_names": [
+      "René Caovilla",
+      "Rene Caovilla"
+    ]
+  },
+  "10476": {
+    "brand_names": [
+      "Represent"
+    ]
+  },
+  "1002601": {
+    "brand_names": [
+      "Revenge"
+    ]
+  },
+  "1000107": {
+    "brand_names": [
+      "Rhude"
+    ]
+  },
+  "10449": {
+    "brand_names": [
+      "Rick Owens",
+      "Rick Owens/ro"
+    ],
+    "collaborations": {
+      "Converse x Rick Owens DRKSHDW": {
+        "collab_brand_ids": [
+          "176"
+        ],
+        "collab_brand_names": [
+          "converse"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "10049": {
+    "brand_names": [
+      "Rick Owens",
+      "Rick Owens/ro"
+    ],
+    "collaborations": {
+      "Converse x Rick Owens DRKSHDW": {
+        "collab_brand_ids": [
+          "176"
+        ],
+        "collab_brand_names": [
+          "converse"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "1002276": {
+    "brand_names": [
+      "Rigorer"
+    ]
+  },
+  "10258": {
+    "brand_names": [
+      "Rimowa"
+    ]
+  },
+  "10075": {
+    "brand_names": [
+      "RIPNDIP"
+    ]
+  },
+  "10000": {
+    "brand_names": [
+      "Roaringwild"
+    ]
+  },
+  "1002634": {
+    "brand_names": [
+      "Rocawear"
+    ]
+  },
+  "1000352": {
+    "brand_names": [
+      "Roger Vivier"
+    ]
+  },
+  "10126": {
+    "brand_names": [
+      "Russell Athletic"
+    ]
+  },
+  "1000042": {
+    "brand_names": [
+      "sacai"
+    ],
+    "collaborations": {
+      "Nike x Sacai": {
+        "collab_brand_ids": [
+          "13",
+          "144"
+        ],
+        "collab_brand_names": [
+          "nike",
+          "jordan"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    }
+  },
+  "10190": {
+    "brand_names": [
+      "Saint Laurent",
+      "ysl"
+    ]
+  },
+  "10026": {
+    "brand_names": [
+      "Saint Laurent",
+      "ysl"
+    ]
+  },
+  "1003484": {
+    "brand_names": [
+      "SAINT Mxxxxxx"
+    ]
+  },
+  "1000079": {
+    "brand_names": [
+      "Salomon"
+    ]
+  },
+  "1003059": {
+    "brand_names": [
+      "SandKnit"
+    ]
+  },
+  "1002514": {
+    "brand_names": [
+      "SANDRO"
+    ]
+  },
+  "1007403": {
+    "brand_names": [
+      "Santoni"
+    ]
+  },
+  "10480": {
+    "brand_names": [
+      "Saucony"
+    ]
+  },
+  "1001882": {
+    "brand_names": [
+      "See By Chloe"
+    ]
+  },
+  "10201": {
+    "brand_names": [
+      "Seiko"
+    ]
+  },
+  "1002033": {
+    "brand_names": [
+      "Self portrait"
+    ]
+  },
+  "1004909": {
+    "brand_names": [
+      "Sergio Rossi"
+    ]
+  },
+  "10336": {
+    "brand_names": [
+      "Skechers"
+    ]
+  },
+  "1013168": {
+    "brand_names": [
+      "SKIMS"
+    ]
+  },
+  "1007611": {
+    "brand_names": [
+      "Smile Republic"
+    ]
+  },
+  "10193": {
+    "brand_names": [
+      "Spalding"
+    ]
+  },
+  "1000279": {
+    "brand_names": [
+      "Staud"
+    ]
+  },
+  "1000528": {
+    "brand_names": [
+      "Stella McCartney",
+      "stella mcc",
+      "mccartney"
+    ],
+    "collaborations": {
+      "adidas by Stella McCartney": {
+        "collab_brand_ids": [
+          "3",
+          "494",
+          "10139"
+        ],
+        "collab_brand_names": [
+          "adidas originals",
+          "adidas neo",
+          "adidas"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "1001719": {
+    "brand_names": [
+      "Steve Madden"
+    ]
+  },
+  "10215": {
+    "brand_names": [
+      "Stone Island",
+      "SI"
+    ],
+    "collaborations": {
+      "New Balance x Stone Island": {
+        "collab_brand_ids": [
+          "4"
+        ],
+        "collab_brand_names": [
+          "new balance",
+          "nb"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Supreme x Stone Island": {
+        "collab_brand_ids": [
+          "439"
+        ],
+        "collab_brand_names": [
+          "supreme"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "1000438": {
+    "brand_names": [
+      "Stuart Weitzman",
+      "Stuart Weitzman/SW"
+    ]
+  },
+  "10087": {
+    "brand_names": [
+      "Stüssy",
+      "Stussy"
+    ],
+    "collaborations": {
+      "Converse x Stüssy": {
+        "collab_brand_ids": [
+          "176"
+        ],
+        "collab_brand_names": [
+          "converse"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x Stüssy": {
+        "collab_brand_ids": [
+          "144"
+        ],
+        "collab_brand_names": [
+          "nike"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "10143": {
+    "brand_names": [
+      "Suicoke"
+    ]
+  },
+  "439": {
+    "brand_names": [
+      "Supreme"
+    ],
+    "collaborations": {
+      "Supreme x Lacoste": {
+        "collab_brand_ids": [
+          "1000101"
+        ],
+        "collab_brand_names": [
+          "lacoste"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [
+          "SUP-SS18-588",
+          "SUP-SS18-518"
+        ],
+        "collab_skip_names": []
+      },
+      "Supreme x The North Face": {
+        "collab_brand_ids": [
+          "45"
+        ],
+        "collab_brand_names": [
+          "the north face",
+          "tnf"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [
+          "SUP-FW19-902",
+          "SUP-FW19-901",
+          "SUP-FW18-1020",
+          "SUP-FW18-1021",
+          "SUP-FW18-1022",
+          "SUP-FW18-1023",
+          "SUP-FW18-1024",
+          "SUP-SS20-427",
+          "SUP-SS20-423",
+          "SUP-SS20-426",
+          "SUP-SS20-425",
+          "SUP-SS20-424"
+        ],
+        "collab_skip_names": []
+      },
+      "Supreme x Comme des Garçons": {
+        "collab_brand_ids": [
+          "10210"
+        ],
+        "collab_brand_names": [
+          "cdg",
+          "comme des garçons",
+          "comme des garcons"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Supreme x Jean Paul Gaultier": {
+        "collab_brand_ids": [
+          ""
+        ],
+        "collab_brand_names": [
+          "jean paul gaultier"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Supreme x Burberry": {
+        "collab_brand_ids": [
+          "10032"
+        ],
+        "collab_brand_names": [
+          "burberry"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Supreme x Levi's": {
+        "collab_brand_ids": [
+          "10195"
+        ],
+        "collab_brand_names": [
+          "levi's",
+          "levis"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Supreme x Stone Island": {
+        "collab_brand_ids": [
+          "10215"
+        ],
+        "collab_brand_names": [
+          "stone island",
+          "stoneisland"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x Supreme": {
+        "collab_brand_ids": [
+          "144"
+        ],
+        "collab_brand_names": [
+          "nike"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Vans x Supreme": {
+        "collab_brand_ids": [
+          "9"
+        ],
+        "collab_brand_names": [
+          "vans"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "10260": {
+    "brand_names": [
+      "Swarovski"
+    ]
+  },
+  "1004758": {
+    "brand_names": [
+      "Tagliatore"
+    ]
+  },
+  "1004773": {
+    "brand_names": [
+      "The Attico"
+    ]
+  },
+  "45": {
+    "brand_names": [
+      "The North Face",
+      "北面The North Face",
+      "北面/The North Face",
+      "TNF"
+    ],
+    "collaborations": {
+      "Supreme x The North Face": {
+        "collab_brand_ids": [
+          "439"
+        ],
+        "collab_brand_names": [
+          "supreme"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [
+          "SUP-FW19-902",
+          "SUP-FW19-901",
+          "SUP-FW18-1020",
+          "SUP-FW18-1021",
+          "SUP-FW18-1022",
+          "SUP-FW18-1023",
+          "SUP-FW18-1024",
+          "SUP-SS20-427",
+          "SUP-SS20-423",
+          "SUP-SS20-426",
+          "SUP-SS20-425",
+          "SUP-SS20-424"
+        ],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "1001825": {
+    "brand_names": [
+      "The Row"
+    ]
+  },
+  "1000443": {
+    "brand_names": [
+      "The Simpsons",
+      "Simpsons"
+    ]
+  },
+  "1001835": {
+    "brand_names": [
+      "Theory"
+    ]
+  },
+  "1860": {
+    "brand_names": [
+      "Thom Browne"
+    ]
+  },
+  "10001": {
+    "brand_names": [
+      "Thrasher"
+    ]
+  },
+  "10261": {
+    "brand_names": [
+      "Tiffany & Co.",
+      "tiffany",
+      "tiffanyco",
+      "tiffany&co",
+      "tiffanyco."
+    ]
+  },
+  "10065": {
+    "brand_names": [
+      "Timberland"
+    ]
+  },
+  "10044": {
+    "brand_names": [
+      "Tissot"
+    ]
+  },
+  "1003117": {
+    "brand_names": [
+      "Tod's",
+      "tods",
+      "tod s"
+    ]
+  },
+  "10213": {
+    "brand_names": [
+      "Tom Ford"
+    ]
+  },
+  "1002103": {
+    "brand_names": [
+      "33TH"
+    ]
+  },
+  "1002240": {
+    "brand_names": [
+      "Tommy Hilfiger",
+      "TH"
+    ]
+  },
+  "10332": {
+    "brand_names": [
+      "Tory Burch"
+    ]
+  },
+  "1003970": {
+    "brand_names": [
+      "Toteme"
+    ]
+  },
+  "10214": {
+    "brand_names": [
+      "UGG"
+    ]
+  },
+  "10361": {
+    "brand_names": [
+      "umamiism"
+    ]
+  },
+  "1006927": {
+    "brand_names": [
+      "umbro"
+    ]
+  },
+  "10141": {
+    "brand_names": [
+      "UNDEFEATED"
+    ],
+    "collaborations": {
+      "adidas x UNDEFEATED": {
+        "collab_brand_ids": [
+          "3",
+          "494",
+          "10139"
+        ],
+        "collab_brand_names": [
+          "adidas originals",
+          "adidas neo",
+          "adidas"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Nike x UNDEFEATED": {
+        "collab_brand_ids": [
+          "13",
+          "144"
+        ],
+        "collab_brand_names": [
+          "nike",
+          "jordan"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "7": {
+    "brand_names": [
+      "Under Armour"
+    ],
+    "many_lines": false,
+    "lines": [
+      {
+        "path": [
+          "Under Armour",
+          "Under Armour Curry 2"
+        ],
+        "line_names": [
+          "curry 2 "
+        ]
+      },
+      {
+        "path": [
+          "Under Armour",
+          "Under Armour Curry 3"
+        ],
+        "line_names": [
+          "curry 3 "
+        ]
+      },
+      {
+        "path": [
+          "Under Armour",
+          "Under Armour Curry 4"
+        ],
+        "line_names": [
+          "curry 4 "
+        ]
+      },
+      {
+        "path": [
+          "Under Armour",
+          "Under Armour Curry 5"
+        ],
+        "line_names": [
+          "curry 5 "
+        ]
+      },
+      {
+        "path": [
+          "Under Armour",
+          "Under Armour Curry 6"
+        ],
+        "line_names": [
+          "curry 6 "
+        ]
+      },
+      {
+        "path": [
+          "Under Armour",
+          "Under Armour Curry 7"
+        ],
+        "line_names": [
+          "curry 7 "
+        ]
+      },
+      {
+        "path": [
+          "Under Armour",
+          "Under Armour Curry 8"
+        ],
+        "line_names": [
+          "curry 8 "
+        ]
+      },
+      {
+        "path": [
+          "Under Armour",
+          "Under Armour Curry 9"
+        ],
+        "line_names": [
+          "curry 9 ",
+          "curry flow 9 "
+        ]
+      },
+      {
+        "path": [
+          "Under Armour",
+          "Under Armour Curry 10"
+        ],
+        "line_names": [
+          "curry flow 10 ",
+          "curry 10 "
+        ]
+      },
+      {
+        "path": [
+          "Under Armour",
+          "Under Armour Curry 1"
+        ],
+        "line_names": [
+          "curry 1 "
+        ]
+      }
+    ]
+  },
+  "3023": {
+    "brand_names": [
+      "Undercover"
+    ]
+  },
+  "1005854": {
+    "brand_names": [
+      "Union"
+    ],
+    "collaborations": {
+      "Nike x Union": {
+        "collab_brand_ids": [
+          "13",
+          "144"
+        ],
+        "collab_brand_names": [
+          "nike",
+          "jordan"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    }
+  },
+  "10107": {
+    "brand_names": [
+      "UNIQLO"
+    ],
+    "collaborations": {
+      "UNIQLO x Kaws": {
+        "collab_brand_ids": [
+          "421"
+        ],
+        "collab_brand_names": [
+          "kaws"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "1008814": {
+    "brand_names": [
+      "UNKNOWTAL"
+    ]
+  },
+  "1000394": {
+    "brand_names": [
+      "UZIS"
+    ]
+  },
+  "10015": {
+    "brand_names": [
+      "Valentino"
+    ]
+  },
+  "1002880": {
+    "brand_names": [
+      "Valextra"
+    ]
+  },
+  "1002010": {
+    "brand_names": [
+      "VANESSA HOGAN",
+      "VH",
+      "VANESSA HOGAN VH"
+    ]
+  },
+  "9": {
+    "brand_names": [
+      "Vans"
+    ],
+    "many_lines": true,
+    "lines": [
+      {
+        "path": [
+          "Vans",
+          "Vans Authentic"
+        ],
+        "line_names": [
+          "authentic"
+        ]
+      },
+      {
+        "path": [
+          "Vans",
+          "Vans Old Skool"
+        ],
+        "line_names": [
+          "old skool"
+        ]
+      },
+      {
+        "path": [
+          "Vans",
+          "Vans Knu"
+        ],
+        "line_names": [
+          "knu"
+        ]
+      },
+      {
+        "path": [
+          "Vans",
+          "Vans Era"
+        ],
+        "line_names": [
+          " era "
+        ]
+      },
+      {
+        "path": [
+          "Vans",
+          "Vans Half Cab"
+        ],
+        "line_names": [
+          "half cab"
+        ]
+      },
+      {
+        "path": [
+          "Vans",
+          "Vans SK8"
+        ],
+        "line_names": [
+          "sk8"
+        ]
+      },
+      {
+        "path": [
+          "Vans",
+          "Vans Ward"
+        ],
+        "line_names": [
+          "Ward"
+        ]
+      },
+      {
+        "path": [
+          "Vans",
+          "Vans ComfyCush"
+        ],
+        "line_names": [
+          "ComfyCush"
+        ]
+      },
+      {
+        "path": [
+          "Vans",
+          "Vans Style 36"
+        ],
+        "line_names": [
+          "style 36",
+          "style36"
+        ]
+      },
+      {
+        "path": [
+          "Vans",
+          "Vans Slip-On"
+        ],
+        "line_names": [
+          "slip-on",
+          "slip on",
+          "slipon"
+        ]
+      }
+    ],
+    "collaborations": {
+      "Vans x Fear of God": {
+        "collab_brand_ids": [
+          "10359"
+        ],
+        "collab_brand_names": [
+          "fear of god",
+          "fog"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "Vans x Supreme": {
+        "collab_brand_ids": [
+          "439"
+        ],
+        "collab_brand_names": [
+          "supreme"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "10099": {
+    "brand_names": [
+      "VEJA"
+    ]
+  },
+  "1007541": {
+    "brand_names": [
+      "VENOF"
+    ]
+  },
+  "10020": {
+    "brand_names": [
+      "Versace"
+    ]
+  },
+  "1000447": {
+    "brand_names": [
+      "Versace"
+    ]
+  },
+  "10016": {
+    "brand_names": [
+      "Vetements"
+    ]
+  },
+  "1003085": {
+    "brand_names": [
+      "Victoria's Secret",
+      "victorias secret",
+      "victoria secret"
+    ]
+  },
+  "1010670": {
+    "brand_names": [
+      "VINEY"
+    ]
+  },
+  "1000524": {
+    "brand_names": [
+      "vision street wear"
+    ]
+  },
+  "1000250": {
+    "brand_names": [
+      "Vivienne Westwood"
+    ]
+  },
+  "10062": {
+    "brand_names": [
+      "VLONE"
+    ]
+  },
+  "1012438": {
+    "brand_names": [
+      "Waitingwave"
+    ]
+  },
+  "10306": {
+    "brand_names": [
+      "WE11DONE",
+      "welldone"
+    ]
+  },
+  "1011698": {
+    "brand_names": [
+      "Weird Market"
+    ]
+  },
+  "10194": {
+    "brand_names": [
+      "Wilson"
+    ]
+  },
+  "10055": {
+    "brand_names": [
+      "Woolrich",
+      "oolrich"
+    ]
+  },
+  "1302": {
+    "brand_names": [
+      "WTAPS"
+    ]
+  },
+  "1001007": {
+    "brand_names": [
+      "Xotic"
+    ]
+  },
+  "10293": {
+    "brand_names": [
+      "xVESSEL"
+    ]
+  },
+  "10002": {
+    "brand_names": [
+      "Y-3",
+      "y - 3"
+    ]
+  },
+  "1003133": {
+    "brand_names": [
+      "Y/Project",
+      "Yproject",
+      "Y project"
+    ]
+  },
+  "1152": {
+    "brand_names": [
+      "YEEZY",
+      "YZY"
+    ],
+    "collaborations": {
+      "adidas Yeezy": {
+        "collab_brand_ids": [
+          "494",
+          "10139",
+          "3"
+        ],
+        "collab_brand_names": [
+          "adidas originals",
+          "adidas"
+        ],
+        "collab_brand_names_no_crop": [
+          "yeezy"
+        ],
+        "collab_skus": [],
+        "collab_skip_names": [
+          "pod-s3.1 blink"
+        ]
+      },
+      "YEEZY x Gap": {
+        "collab_brand_ids": [
+          "10012",
+          "1008504"
+        ],
+        "collab_brand_names": [
+          "gap"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
+  "1002570": {
+    "brand_names": [
+      "Yese Studio"
+    ]
+  },
+  "1000288": {
+    "brand_names": [
+      "Yohji Yamamoto"
+    ]
+  },
+  "1011575": {
+    "brand_names": [
+      "Youkeshu"
+    ]
+  },
+  "1002881": {
+    "brand_names": [
+      "Zara"
+    ]
+  },
+  "1004761": {
+    "brand_names": [
+      "Zimmermann"
+    ]
+  },
+  "1001065": {
+    "brand_names": [
+      "Zzegna",
+      "Zegna"
+    ]
+  },
+  "1000514": {
+    "brand_names": [
+      "Études",
+      "Etudes"
+    ]
+  },
+  "1007531": {
+    "brand_names": [
+      "速写"
+    ]
+  },
+  "1007495": {
+    "brand_names": [
+      "Golfcross"
+    ]
+  },
+  "100248": {
+    "brand_names": [
+      "BRNR"
+    ]
+  },
+  "1003069": {
+    "brand_names": [
+      "Fido Dido"
+    ]
+  },
+  "1010619": {
+    "brand_names": [
+      "The Salvages Fashion Club"
+    ]
+  },
+  "1006997": {
+    "brand_names": [
+      "ONLY"
+    ]
+  },
+  "1000637": {
+    "brand_names": [
+      "palladium"
+    ]
+  },
+  "1004804": {
+    "brand_names": [
+      "Teenie Weenie"
+    ]
+  },
+  "1001987": {
+    "brand_names": [
+      "Jack Jones"
+    ]
+  },
+  "10048": {
+    "brand_names": [
+      "Boy London"
+    ]
+  },
+  "1000135": {
+    "brand_names": [
+      "Killwinner"
+    ]
+  },
+  "1000143": {
+    "brand_names": [
+      "F426"
+    ]
+  },
+  "1012054": {
+    "brand_names": [
+      "Atry"
+    ]
+  },
+  "1000277": {
+    "brand_names": [
+      "Samsonite"
+    ]
+  },
+  "10155": {
+    "brand_names": [
+      "Swatch"
+    ]
+  },
+  "1008630": {
+    "brand_names": [
+      "GOLF"
+    ]
+  },
+  "1011838": {
+    "brand_names": [
+      "G-SHOCK"
+    ]
+  },
+  "1007816": {
+    "brand_names": [
+      "Khaite"
+    ]
+  },
+  "1004951": {
+    "brand_names": [
+      "Berluti"
+    ]
+  },
+  "1005631": {
+    "brand_names": [
+      "UFZ"
+    ]
+  },
+  "1009343": {
+    "brand_names": [
+      "Camel"
+    ]
+  },
+  "10198": {
+    "brand_names": [
+      "Van Cleef & Arpels"
+    ]
+  },
+  "1000406": {
+    "brand_names": [
+      "Unifree"
+    ]
+  },
+  "1006871": {
+    "brand_names": [
+      "CEEC LA"
+    ]
+  },
+  "1008793": {
+    "brand_names": [
+      "Free world order"
+    ]
+  },
+  "1000045": {
+    "brand_names": [
+      "Discover Mental Club"
+    ]
+  },
+  "1012419": {
+    "brand_names": [
+      "Li-Ning",
+      "Li-Ning李宁",
+      "Lining李宁",
+      "Lining",
+      "li ning",
+      "李宁"
+    ]
+  },
+  "10042": {
+    "brand_names": [
+      "Rolex"
+    ]
+  },
+  "10346": {
+    "brand_names": [
+      "Audemars Piguet"
+    ]
+  },
+  "4988": {
+    "brand_names": [
+      "Omega"
+    ]
+  },
+  "10061": {
+    "brand_names": [
+      "Vacheron Constantin"
+    ]
+  },
+  "1001433": {
+    "brand_names": [
+      "Native",
+      "Native shoes"
+    ]
+  },
+  "1000048": {
+    "brand_names": [
+      "Patek Philippe"
+    ]
+  },
+  "1000300": {
+    "brand_names": [
+      "Chaumet"
+    ]
+  },
+  "1007417": {
+    "brand_names": [
+      "Boucheron"
+    ]
+  },
+  "1001894": {
+    "brand_names": [
+      "Harry Winston"
+    ]
+  },
+  "10189": {
+    "brand_names": [
+      "HUF"
+    ]
+  },
+  "1002602": {
+    "brand_names": [
+      "Brain Dead"
+    ]
+  },
+  "1001902": {
+    "brand_names": [
+      "Wandler"
+    ]
+  },
+  "1000171": {
+    "brand_names": [
+      "lululemon"
+    ]
+  },
+  "1004530": {
+    "brand_names": [
+      "Dark Circle"
+    ]
+  },
+  "1012795": {
+    "brand_names": [
+      "Arket"
+    ]
+  },
+  "1009661": {
+    "brand_names": [
+      "Moon Boot"
+    ]
+  },
+  "1003373": {
+    "brand_names": [
+      "Ermanno Scervino"
+    ]
+  }
+}

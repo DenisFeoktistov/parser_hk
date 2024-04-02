@@ -1,0 +1,1400 @@
+{
+  "3957390": {
+    "lines_to_remove": [
+      {
+        "path": [
+          "Nike",
+          "Nike Blazer",
+          "Другие Nike Blazer"
+        ],
+        "line_names": [
+          "blazer"
+        ],
+        "line_skip_names": []
+      }
+    ],
+    "lines_to_add": [
+      {
+        "path": [
+          "Nike",
+          "Nike Blazer",
+          "Nike Blazer Mid"
+        ],
+        "line_names": [
+          "blazer mid",
+          "mid blazer",
+          "blazer sb mid",
+          "mid sb blazer"
+        ],
+        "line_skip_names": [],
+        "line_name_no_crop": [
+          "sb"
+        ]
+      }
+    ]
+  },
+  "5252019": {
+    "lines_to_remove": [
+      {
+        "path": [
+          "Nike",
+          "Nike Blazer",
+          "Другие Nike Blazer"
+        ],
+        "line_names": [
+          "blazer"
+        ],
+        "line_skip_names": []
+      }
+    ],
+    "lines_to_add": [
+      {
+        "path": [
+          "Nike",
+          "Nike Blazer",
+          "Nike Blazer Mid"
+        ],
+        "line_names": [
+          "blazer mid",
+          "mid blazer",
+          "blazer sb mid",
+          "mid sb blazer"
+        ],
+        "line_skip_names": [],
+        "line_name_no_crop": [
+          "sb"
+        ]
+      }
+    ]
+  },
+  "3661880": {
+    "lines_to_remove": [
+      {
+        "path": [
+          "Nike",
+          "Nike Blazer",
+          "Другие Nike Blazer"
+        ],
+        "line_names": [
+          "blazer"
+        ],
+        "line_skip_names": []
+      }
+    ],
+    "lines_to_add": [
+      {
+        "path": [
+          "Nike",
+          "Nike Blazer",
+          "Nike Blazer Mid"
+        ],
+        "line_names": [
+          "blazer mid",
+          "mid blazer",
+          "blazer sb mid",
+          "mid sb blazer"
+        ],
+        "line_skip_names": [],
+        "line_name_no_crop": [
+          "sb"
+        ]
+      }
+    ]
+  },
+  "1760130": {
+    "lines_to_remove": [
+      {
+        "path": [
+          "Nike",
+          "Nike Blazer",
+          "Другие Nike Blazer"
+        ],
+        "line_names": [
+          "blazer"
+        ],
+        "line_skip_names": []
+      }
+    ],
+    "lines_to_add": [
+      {
+        "path": [
+          "Nike",
+          "Nike Blazer",
+          "Nike Blazer Mid"
+        ],
+        "line_names": [
+          "blazer mid",
+          "mid blazer",
+          "blazer sb mid",
+          "mid sb blazer"
+        ],
+        "line_skip_names": [],
+        "line_name_no_crop": [
+          "sb"
+        ]
+      }
+    ]
+  },
+  "3661288": {
+    "lines_to_remove": [
+      {
+        "path": [
+          "Nike",
+          "Nike Blazer",
+          "Другие Nike Blazer"
+        ],
+        "line_names": [
+          "blazer"
+        ],
+        "line_skip_names": []
+      }
+    ],
+    "lines_to_add": [
+      {
+        "path": [
+          "Nike",
+          "Nike Blazer",
+          "Nike Blazer Mid"
+        ],
+        "line_names": [
+          "blazer mid",
+          "mid blazer",
+          "blazer sb mid",
+          "mid sb blazer"
+        ],
+        "line_skip_names": [],
+        "line_name_no_crop": [
+          "sb"
+        ]
+      }
+    ]
+  },
+  "1780317": {
+    "lines_to_remove": [
+      {
+        "path": [
+          "Nike",
+          "Nike Blazer",
+          "Другие Nike Blazer"
+        ],
+        "line_names": [
+          "blazer"
+        ],
+        "line_skip_names": []
+      }
+    ],
+    "lines_to_add": [
+      {
+        "path": [
+          "Nike",
+          "Nike Blazer",
+          "Nike Blazer Low"
+        ],
+        "line_names": [
+          "blazer low",
+          "low blazer",
+          "blazer sb low",
+          "low sb blazer"
+        ],
+        "line_skip_names": [],
+        "line_name_no_crop": [
+          "sb"
+        ]
+      }
+    ]
+  },
+  "3806999": {
+    "lines_to_remove": [
+      {
+        "path": [
+          "Nike",
+          "Nike Blazer",
+          "Другие Nike Blazer"
+        ],
+        "line_names": [
+          "blazer"
+        ],
+        "line_skip_names": []
+      }
+    ],
+    "lines_to_add": [
+      {
+        "path": [
+          "Nike",
+          "Nike Blazer",
+          "Nike Blazer Mid"
+        ],
+        "line_names": [
+          "blazer mid",
+          "mid blazer",
+          "blazer sb mid",
+          "mid sb blazer"
+        ],
+        "line_skip_names": [],
+        "line_name_no_crop": [
+          "sb"
+        ]
+      }
+    ]
+  },
+  "1413994": {
+    "lines_to_remove": [],
+    "lines_to_add": [],
+    "collabs_to_remove": ["Nike x Off-White"]
+  },"60811": {
+    "lines_to_remove": [],
+    "lines_to_add": [],
+    "collabs_to_remove": ["Nike x Off-White"]
+  },
+  "1039886": {
+    "lines_to_remove": [],
+    "lines_to_add": [],
+    "collabs_to_remove": ["Nike x Union"]
+  },"4380995": {
+    "lines_to_remove": [],
+    "lines_to_add": [],
+    "collabs_to_remove": ["Nike x Union"]
+  },"1591929": {
+    "lines_to_remove": [],
+    "lines_to_add": [],
+    "collabs_to_remove": ["Jordan x Dior"]
+  },"1142453": {
+    "lines_to_remove": [],
+    "lines_to_add": [],
+    "collabs_to_remove": ["Jordan x Dior"]
+  },"1493289": {
+    "lines_to_remove": [],
+    "lines_to_add": [],
+    "collabs_to_remove": ["Jordan x Dior"]
+  },"66479": {
+    "lines_to_remove": [],
+    "lines_to_add": [],
+    "collabs_to_remove": ["Jordan x Dior"]
+  },"1764460": {
+    "lines_to_remove": [],
+    "lines_to_add": [],
+    "collabs_to_remove": ["Jordan x Dior"]
+  },"1140339": {
+    "lines_to_remove": [],
+    "lines_to_add": [],
+    "collabs_to_remove": ["Jordan x Dior"]
+  },"83632": {
+    "lines_to_remove": [],
+    "lines_to_add": [],
+    "collabs_to_remove": ["Jordan x Dior"]
+  },"1122721": {
+    "lines_to_remove": [],
+    "lines_to_add": [],
+    "collabs_to_remove": ["Jordan x Dior"]
+  },"1209402": {
+    "lines_to_remove": [],
+    "lines_to_add": [],
+    "collabs_to_remove": ["Jordan x Dior"]
+  },"1163289": {
+    "lines_to_remove": [],
+    "lines_to_add": [],
+    "collabs_to_remove": ["Jordan x Dior"]
+  },"1214377": {
+    "lines_to_remove": [],
+    "lines_to_add": [],
+    "collabs_to_remove": ["Jordan x Dior"]
+  },"2982271": {
+    "lines_to_remove": [],
+    "lines_to_add": [],
+    "collabs_to_remove": ["Jordan x Dior"]
+  },"1031312": {
+    "lines_to_remove": [],
+    "lines_to_add": [],
+    "collabs_to_remove": ["Jordan x Dior"]
+  },
+  "1356540": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 High"
+        ],
+        "line_names": [
+            "Air Jordan 1 high",
+            "Air Jordan high 1 ",
+            "Air Jordan 1 retro high",
+            "air jordan retro 1 high",
+            "air jordan retro high 1 ",
+            "jordan 1 high",
+            "jordan high 1 ",
+            "jordan retro 1 high",
+            "jordan retro high 1 ",
+            "jordan 1 retro high",
+            "Air Jordan 1 hi "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  },
+  "693": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 High"
+        ],
+        "line_names": [
+            "Air Jordan 1 high",
+            "Air Jordan high 1 ",
+            "Air Jordan 1 retro high",
+            "air jordan retro 1 high",
+            "air jordan retro high 1 ",
+            "jordan 1 high",
+            "jordan high 1 ",
+            "jordan retro 1 high",
+            "jordan retro high 1 ",
+            "jordan 1 retro high",
+            "Air Jordan 1 hi "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  },
+  "735": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 High"
+        ],
+        "line_names": [
+            "Air Jordan 1 high",
+            "Air Jordan high 1 ",
+            "Air Jordan 1 retro high",
+            "air jordan retro 1 high",
+            "air jordan retro high 1 ",
+            "jordan 1 high",
+            "jordan high 1 ",
+            "jordan retro 1 high",
+            "jordan retro high 1 ",
+            "jordan 1 retro high",
+            "Air Jordan 1 hi "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  },
+  "785": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 High"
+        ],
+        "line_names": [
+            "Air Jordan 1 high",
+            "Air Jordan high 1 ",
+            "Air Jordan 1 retro high",
+            "air jordan retro 1 high",
+            "air jordan retro high 1 ",
+            "jordan 1 high",
+            "jordan high 1 ",
+            "jordan retro 1 high",
+            "jordan retro high 1 ",
+            "jordan 1 retro high",
+            "Air Jordan 1 hi "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  },
+  "24534": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 High"
+        ],
+        "line_names": [
+            "Air Jordan 1 high",
+            "Air Jordan high 1 ",
+            "Air Jordan 1 retro high",
+            "air jordan retro 1 high",
+            "air jordan retro high 1 ",
+            "jordan 1 high",
+            "jordan high 1 ",
+            "jordan retro 1 high",
+            "jordan retro high 1 ",
+            "jordan 1 retro high",
+            "Air Jordan 1 hi "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  },
+  "746": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 High"
+        ],
+        "line_names": [
+            "Air Jordan 1 high",
+            "Air Jordan high 1 ",
+            "Air Jordan 1 retro high",
+            "air jordan retro 1 high",
+            "air jordan retro high 1 ",
+            "jordan 1 high",
+            "jordan high 1 ",
+            "jordan retro 1 high",
+            "jordan retro high 1 ",
+            "jordan 1 retro high",
+            "Air Jordan 1 hi "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  },
+  "710": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 High"
+        ],
+        "line_names": [
+            "Air Jordan 1 high",
+            "Air Jordan high 1 ",
+            "Air Jordan 1 retro high",
+            "air jordan retro 1 high",
+            "air jordan retro high 1 ",
+            "jordan 1 high",
+            "jordan high 1 ",
+            "jordan retro 1 high",
+            "jordan retro high 1 ",
+            "jordan 1 retro high",
+            "Air Jordan 1 hi "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  },
+  "838": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 High"
+        ],
+        "line_names": [
+            "Air Jordan 1 high",
+            "Air Jordan high 1 ",
+            "Air Jordan 1 retro high",
+            "air jordan retro 1 high",
+            "air jordan retro high 1 ",
+            "jordan 1 high",
+            "jordan high 1 ",
+            "jordan retro 1 high",
+            "jordan retro high 1 ",
+            "jordan 1 retro high",
+            "Air Jordan 1 hi "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  },
+  "699": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 High"
+        ],
+        "line_names": [
+            "Air Jordan 1 high",
+            "Air Jordan high 1 ",
+            "Air Jordan 1 retro high",
+            "air jordan retro 1 high",
+            "air jordan retro high 1 ",
+            "jordan 1 high",
+            "jordan high 1 ",
+            "jordan retro 1 high",
+            "jordan retro high 1 ",
+            "jordan 1 retro high",
+            "Air Jordan 1 hi "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  },
+  "2175078": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 Mid"
+        ],
+        "line_names": [
+            "Air Jordan 1 mid",
+            "Air Jordan mid 1 ",
+            "Air Jordan 1 retro mid",
+            "air jordan retro 1 mid",
+            "air jordan retro high 1 ",
+            "jordan 1 mid",
+            "jordan mid 1 ",
+            "jordan retro 1 mid",
+            "jordan retro high 1 ",
+            "jordan 1 retro mid"
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  },
+  "3906564": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 Mid"
+        ],
+        "line_names": [
+            "Air Jordan 1 mid",
+            "Air Jordan mid 1 ",
+            "Air Jordan 1 retro mid",
+            "air jordan retro 1 mid",
+            "air jordan retro high 1 ",
+            "jordan 1 mid",
+            "jordan mid 1 ",
+            "jordan retro 1 mid",
+            "jordan retro high 1 ",
+            "jordan 1 retro mid"
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  },
+  "3906545": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 Mid"
+        ],
+        "line_names": [
+            "Air Jordan 1 mid",
+            "Air Jordan mid 1 ",
+            "Air Jordan 1 retro mid",
+            "air jordan retro 1 mid",
+            "air jordan retro high 1 ",
+            "jordan 1 mid",
+            "jordan mid 1 ",
+            "jordan retro 1 mid",
+            "jordan retro high 1 ",
+            "jordan 1 retro mid"
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  },
+  "64946": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 Mid"
+        ],
+        "line_names": [
+            "Air Jordan 1 mid",
+            "Air Jordan mid 1 ",
+            "Air Jordan 1 retro mid",
+            "air jordan retro 1 mid",
+            "air jordan retro high 1 ",
+            "jordan 1 mid",
+            "jordan mid 1 ",
+            "jordan retro 1 mid",
+            "jordan retro high 1 ",
+            "jordan 1 retro mid"
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  },
+  "77311": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 Mid"
+        ],
+        "line_names": [
+            "Air Jordan 1 mid",
+            "Air Jordan mid 1 ",
+            "Air Jordan 1 retro mid",
+            "air jordan retro 1 mid",
+            "air jordan retro high 1 ",
+            "jordan 1 mid",
+            "jordan mid 1 ",
+            "jordan retro 1 mid",
+            "jordan retro high 1 ",
+            "jordan 1 retro mid"
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  },
+  "48105": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 High"
+        ],
+        "line_names": [
+            "Air Jordan 1 high",
+            "Air Jordan high 1 ",
+            "Air Jordan 1 retro high",
+            "air jordan retro 1 high",
+            "air jordan retro high 1 ",
+            "jordan 1 high",
+            "jordan high 1 ",
+            "jordan retro 1 high",
+            "jordan retro high 1 ",
+            "jordan 1 retro high",
+            "Air Jordan 1 hi "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  },
+  "37178": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 Mid"
+        ],
+        "line_names": [
+            "Air Jordan 1 mid",
+            "Air Jordan mid 1 ",
+            "Air Jordan 1 retro mid",
+            "air jordan retro 1 mid",
+            "air jordan retro high 1 ",
+            "jordan 1 mid",
+            "jordan mid 1 ",
+            "jordan retro 1 mid",
+            "jordan retro high 1 ",
+            "jordan 1 retro mid"
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  },
+  "48108": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 Mid"
+        ],
+        "line_names": [
+            "Air Jordan 1 mid",
+            "Air Jordan mid 1 ",
+            "Air Jordan 1 retro mid",
+            "air jordan retro 1 mid",
+            "air jordan retro high 1 ",
+            "jordan 1 mid",
+            "jordan mid 1 ",
+            "jordan retro 1 mid",
+            "jordan retro high 1 ",
+            "jordan 1 retro mid"
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  },
+  "36037": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 Mid"
+        ],
+        "line_names": [
+            "Air Jordan 1 mid",
+            "Air Jordan mid 1 ",
+            "Air Jordan 1 retro mid",
+            "air jordan retro 1 mid",
+            "air jordan retro high 1 ",
+            "jordan 1 mid",
+            "jordan mid 1 ",
+            "jordan retro 1 mid",
+            "jordan retro high 1 ",
+            "jordan 1 retro mid"
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  },
+  "71512": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 Mid"
+        ],
+        "line_names": [
+            "Air Jordan 1 mid",
+            "Air Jordan mid 1 ",
+            "Air Jordan 1 retro mid",
+            "air jordan retro 1 mid",
+            "air jordan retro high 1 ",
+            "jordan 1 mid",
+            "jordan mid 1 ",
+            "jordan retro 1 mid",
+            "jordan retro high 1 ",
+            "jordan 1 retro mid"
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  },
+  "64956": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 Mid"
+        ],
+        "line_names": [
+            "Air Jordan 1 mid",
+            "Air Jordan mid 1 ",
+            "Air Jordan 1 retro mid",
+            "air jordan retro 1 mid",
+            "air jordan retro high 1 ",
+            "jordan 1 mid",
+            "jordan mid 1 ",
+            "jordan retro 1 mid",
+            "jordan retro high 1 ",
+            "jordan 1 retro mid"
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  },
+  "3002193": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 Mid"
+        ],
+        "line_names": [
+            "Air Jordan 1 mid",
+            "Air Jordan mid 1 ",
+            "Air Jordan 1 retro mid",
+            "air jordan retro 1 mid",
+            "air jordan retro high 1 ",
+            "jordan 1 mid",
+            "jordan mid 1 ",
+            "jordan retro 1 mid",
+            "jordan retro high 1 ",
+            "jordan 1 retro mid"
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  },
+  "77253": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 Mid"
+        ],
+        "line_names": [
+            "Air Jordan 1 mid",
+            "Air Jordan mid 1 ",
+            "Air Jordan 1 retro mid",
+            "air jordan retro 1 mid",
+            "air jordan retro high 1 ",
+            "jordan 1 mid",
+            "jordan mid 1 ",
+            "jordan retro 1 mid",
+            "jordan retro high 1 ",
+            "jordan 1 retro mid"
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  },
+  "9181": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 Mid"
+        ],
+        "line_names": [
+            "Air Jordan 1 mid",
+            "Air Jordan mid 1 ",
+            "Air Jordan 1 retro mid",
+            "air jordan retro 1 mid",
+            "air jordan retro high 1 ",
+            "jordan 1 mid",
+            "jordan mid 1 ",
+            "jordan retro 1 mid",
+            "jordan retro high 1 ",
+            "jordan 1 retro mid"
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  },
+  "3484": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 Mid"
+        ],
+        "line_names": [
+            "Air Jordan 1 mid",
+            "Air Jordan mid 1 ",
+            "Air Jordan 1 retro mid",
+            "air jordan retro 1 mid",
+            "air jordan retro high 1 ",
+            "jordan 1 mid",
+            "jordan mid 1 ",
+            "jordan retro 1 mid",
+            "jordan retro high 1 ",
+            "jordan 1 retro mid"
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  },
+  "3553": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 Mid"
+        ],
+        "line_names": [
+            "Air Jordan 1 mid",
+            "Air Jordan mid 1 ",
+            "Air Jordan 1 retro mid",
+            "air jordan retro 1 mid",
+            "air jordan retro high 1 ",
+            "jordan 1 mid",
+            "jordan mid 1 ",
+            "jordan retro 1 mid",
+            "jordan retro high 1 ",
+            "jordan 1 retro mid"
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  },
+  "705": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 Mid"
+        ],
+        "line_names": [
+            "Air Jordan 1 mid",
+            "Air Jordan mid 1 ",
+            "Air Jordan 1 retro mid",
+            "air jordan retro 1 mid",
+            "air jordan retro high 1 ",
+            "jordan 1 mid",
+            "jordan mid 1 ",
+            "jordan retro 1 mid",
+            "jordan retro high 1 ",
+            "jordan 1 retro mid"
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  },
+  "3577": {
+    "lines_to_remove": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Другие Air Jordan 1"
+        ],
+        "line_names": [
+            "Air Jordan 1 ",
+            "Air Jordan retro 1 ",
+            "jordan 1 ",
+            "jordan retro 1 "
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }],
+    "lines_to_add": [{
+        "path": [
+            "Jordan",
+            "Air Jordan 1",
+            "Air Jordan 1 Mid"
+        ],
+        "line_names": [
+            "Air Jordan 1 mid",
+            "Air Jordan mid 1 ",
+            "Air Jordan 1 retro mid",
+            "air jordan retro 1 mid",
+            "air jordan retro high 1 ",
+            "jordan 1 mid",
+            "jordan mid 1 ",
+            "jordan retro 1 mid",
+            "jordan retro high 1 ",
+            "jordan 1 retro mid"
+        ],
+        "line_name_no_crop": [
+            "retro"
+        ]
+    }]
+  }
+}

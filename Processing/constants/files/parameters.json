@@ -1,0 +1,318 @@
+{
+  "Composition": {
+    "translation": "Состав"
+  },
+  "Dial color": {
+    "translation": "Цвет циферблата",
+    "type": "color"
+  },
+  "Color": {
+    "translation": "Цвет",
+    "type": "color"
+  },
+  "Complementary colors": {
+    "translation": "Дополнительные цвета",
+    "type": "color"
+  },
+  "Main Color": {
+    "translation": "Основной цвет",
+    "type": "color"
+  },
+  "Frame and leg color": {
+    "translation": "Цвет рамки и ножки",
+    "type": "color"
+  },
+  "Fabric": {
+    "translation": "Материал",
+    "type": "material"
+  },
+  "Applicable Seasons": {
+    "translation": "Сезоны",
+    "values": {
+      "unisex": "Все сезоны"
+    }
+  },
+  "Collar": {
+    "translation": "Воротник",
+    "values": {
+      "crew neck": "Круглый вырез",
+      "hooded": "Закрытый",
+      "v-neck": "V-образный вырез",
+      "high neck": "Высокий воротник",
+      "lapel": "С отворотами",
+      "capless stand collar": "Воротник-стойка без монолита",
+      "the cap can be removed": "Съемный верх",
+      "baseball collar": "Бейсбольного типа",
+      "collarless": "Без воротника",
+      "square collar": "Квардратный воротника"
+    }
+  },
+  "Sleeve Length": {
+    "translation": "Тип рукавов",
+    "values": {
+      "short sleeves": "Короткие",
+      "long sleeves": "Длинные",
+      "sleeveless": "Без рукавов",
+      "cropped sleeves": "Укороченные"
+    }
+  },
+  "Fit": {
+    "translation": "Посадка",
+    "values": {
+      "fit": "Обычная",
+      "lax": "Свободная",
+      "moderate": "Обычная",
+      "ultra-loose": "Свободная"
+    }
+  },
+  "Lining material": {
+    "translation": "Материал подкладки",
+    "type": "material"
+  },
+  "Thickness": {
+    "translation": "Толщина",
+    "values": {
+      "moderate": "Обычная",
+      "fleece": "С флисовым слоем",
+      "thick money": "Выше среднего",
+      "thin": "Ниже среднего",
+      "thickened": "Ниже среднего",
+      "fleece and thicken": "Утонченный флисовый слой"
+    }
+  },
+  "seasons": {
+    "translation": "Сезоны",
+    "values": {
+      "unisex": "Все сезоны"
+    }
+  },
+  "Whether to add fleece": {
+    "translation": "Наличие флиса",
+    "values": {
+      "no pile": "Без ворса",
+      "fleece": "С флисом"
+    }
+  },
+  "Material": {
+    "translation": "Материал",
+    "type": "material"
+  },
+  "Upper Material": {
+    "translation": "Материал верха",
+    "type": "material"
+  },
+  "Texture": {
+    "translation": "Материал",
+    "type": "material"
+  },
+  "Heel type": {
+    "translation": "Тип подошвы",
+    "values": {
+      "flat": "Обычная подошва",
+      "platform": "Платформа",
+      "block heel": "Блочный каблук",
+      "slim heel": "Тонкий каблук",
+      "statement heel": "Каблук",
+      "hidden wedge": "Скрытая танкетка",
+      "wedge": "Танкетка",
+      "spool heel": "Каблук-катушка",
+      "cone heel": "Каблук-конус"
+    }
+  },
+  "Upper Height": {
+    "translation": "Тип обуви",
+    "values": {
+      "high-top": "Высокие",
+      "low-top": "Низкие",
+      "mid-top": "Средней высоты"
+    }
+  },
+  "Toe Shape": {
+    "translation": "Тип носка",
+    "values": {
+      "round head": "Закругленный",
+      "pointed": "Острый",
+      "flat head": "Плоский",
+      "open toes": "Открытый",
+      "square head": "Квадратный"
+    }
+  },
+  "Placket": {
+    "translation": "Тип застежки",
+    "values": {
+      "zip closure": "Молния"
+    }
+  },
+  "Closure Type": {
+    "translation": "Тип застежки",
+    "values": {
+      "lacing": "Шнурки",
+      "magnetic closure": "Магнитная",
+      "drawstring": "Шнурки",
+      "snap closure": "Кнопки",
+      "zip closure": "Молния",
+      "lock": "Замок",
+      "open top": "Открытый верх",
+      "turn lock": "Поворотный замок",
+      "hook-and-loop": "Крючок и петля",
+      "no lacing": "Без шнуровки",
+      "agraffe": "Аграф",
+      "zip and snap": "Молния и защелка",
+      "hook": "Крючок"
+    }
+  },
+  "Cap style": {
+    "translation": "Тип головного убора",
+    "values": {
+      "knit hat": "Вязанная",
+      "cap": "Кепка",
+      "beanie": "Beanie"
+    }
+  },
+  "Buckle type": {
+    "translation": "Тип пряжки",
+    "values": {
+      "pin buckle": "Булавочная",
+      "folding clasp": "Застёжка",
+      "butterfly clasp": "Застёжка-бабочка"
+    }
+  },
+  "Velvet content": {
+    "translation": "Содержание вельвета",
+    "type": "proportion"
+  },
+  "Proportion": {
+    "translation": "Пропорции конфигурации",
+    "type": "proportion"
+  },
+  "Dial shape": {
+    "translation": "Форма циферблата",
+    "values": {
+      "rotundity": "Круг",
+      "square": "Квадрат",
+      "rectangle": "Прямоугольник",
+      "polygon": "Многоугольник"
+    }
+  },
+  "Strap material": {
+    "translation": "Материал ремешка",
+    "type": "material"
+  },
+  "Case material": {
+    "translation": "Материал корпуса",
+    "type": "material"
+  },
+  "Heel height": {
+    "translation": "Высота каблука",
+    "values": {
+      "flat": "Без каблука",
+      "low heel (<3cm)": "Низкий (<3CM)",
+      "mid heel (3-5cm)": "Средний (3-5CM)",
+      "super high heel (>8cm)": "Высокий (>8CM)",
+      "high heel (5-8cm)": "Высокий (5-8CM)",
+      "high heel": "Высокий",
+      "low to medium heels": "Средний"
+    }
+  },
+  "Filling": {
+    "translation": "Наполнение",
+    "type": "material"
+  },
+  "Lining": {
+    "translation": "Подкладка",
+    "type": "material"
+  },
+  "Perfumer": {
+    "translation": "Парфюмер"
+  },
+  "Fabric technology": {
+    "translation": "Наличие технологии Gore-Tex",
+    "values": {
+      "gore-tex": "Да"
+    }
+  },
+  "Football size": {
+    "translation": "Размер мяча",
+    "values": {
+      "ball no. 5 (regular 11-a-side)": "5 (стандартный)",
+      "ball no. 3 (for children)": "3 (детский)"
+    }
+  },
+  "Basketball specs": {
+    "translation": "Размер мяча",
+    "values": {
+      "basketball no. 7 (standard ball)": "7 размер (стандартный)",
+      "no. 6 basketball (women's game)": "6 размер",
+      "no. 7 basketball (standard ball)": "7 размер (стандартный)",
+      "no. 5 basketball (juniors)": "5 размер (детский)"
+    }
+  },
+  "Weight": {
+    "translation": "Вес",
+    "type": "weight"
+  },
+  "The width of the bounding box": {
+    "translation": "Размер",
+    "type": "size"
+  },
+  "Lens width": {
+    "translation": "Ширина линз",
+    "type": "size"
+  },
+  "Leg length": {
+    "translation": "Размер ножки",
+    "type": "size"
+  },
+  "Nose bridge spacing": {
+    "translation": "Расстояние между переносицами",
+    "type": "size"
+  },
+  "Fill Weight": {
+    "translation": "Масса наполнителя",
+    "type": "weight"
+  },
+  "Dial diameter": {
+    "translation": "Диаметр циферблата",
+    "type": "size"
+  },
+  "Gram weight": {
+    "translation": "Вес",
+    "type": "weight"
+  },
+  "Dial size": {
+    "translation": "Размер циферблата",
+    "type": "size"
+  },
+  "Handle Height": {
+    "translation": "Длина ручки",
+    "type": "size"
+  },
+  "Table diameter/dimensions": {
+    "translation": "Размер",
+    "type": "size"
+  },
+  "Dial thickness": {
+    "translation": "Толщина циферблата",
+    "type": "size"
+  },
+  "Table diameter": {
+    "translation": "Диаметр",
+    "type": "size"
+  },
+  "Size size": {
+    "translation": "Размер",
+    "type": "size"
+  },
+  "Waterproof depth": {
+    "translation": "Глубина водонепроницаемости",
+    "type": "size"
+  },
+  "Shoulder strap length": {
+    "translation": "Длина плечевого ремня",
+    "type": "size"
+  },
+  "Size": {
+    "translation": "Размер",
+    "type": "size"
+  }
+}

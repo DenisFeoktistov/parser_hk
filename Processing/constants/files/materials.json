@@ -1,0 +1,290 @@
+{
+  "pvc": {
+    "view_name": "ПВХ",
+    "filter_name": ""
+  },
+  "cotton": {
+    "view_name": "Хлопок",
+    "filter_name": "Хлопок"
+  },
+  "elastane": {
+    "view_name": "Эластан",
+    "filter_name": ""
+  },
+  "nylon": {
+    "view_name": "Нейлон",
+    "filter_name": "Нейлон"
+  },
+  "polyester": {
+    "view_name": "Полиэстер",
+    "filter_name": "Полиэстер"
+  },
+  "wool": {
+    "view_name": "Шерсть",
+    "filter_name": "Шерсть"
+  },
+  "acrylic": {
+    "view_name": "Акрил",
+    "filter_name": ""
+  },
+  "cashmere": {
+    "view_name": "Кашемир",
+    "filter_name": "Кашемир"
+  },
+  "mohair": {
+    "view_name": "Мохер",
+    "filter_name": "Шерсть"
+  },
+  "viscose": {
+    "view_name": "Вискоза",
+    "filter_name": ""
+  },
+  "lycra": {
+    "view_name": "Лайкра",
+    "filter_name": ""
+  },
+  "velor": {
+    "view_name": "Велюр",
+    "filter_name": "Ткань"
+  },
+  "rabbit hair": {
+    "view_name": "Кроличья шерсть",
+    "filter_name": "Шерсть"
+  },
+  "spandex": {
+    "view_name": "Спандекс",
+    "filter_name": ""
+  },
+  "jersey": {
+    "view_name": "Трикотаж",
+    "filter_name": "Ткань"
+  },
+  "canvas": {
+    "view_name": "Полотно",
+    "filter_name": "Ткань"
+  },
+  "polyacrylic": {
+    "view_name": "Полиакрил",
+    "filter_name": ""
+  },
+  "100% leather": {
+    "view_name": "Кожа",
+    "filter_name": "Кожа"
+  },
+  "merino wool": {
+    "view_name": "Шерсть мериноса",
+    "filter_name": "Шерсть"
+  },
+  "rubber": {
+    "view_name": "Резина",
+    "filter_name": ""
+  },
+  "pu": {
+    "view_name": "Полиуретан",
+    "filter_name": ""
+  },
+  "wool blend": {
+    "view_name": "Шерсть",
+    "filter_name": ""
+  },
+  "abs plastic": {
+    "view_name": "АБС-пластик",
+    "filter_name": ""
+  },
+  "synthetic materials": {
+    "view_name": "Синтетика",
+    "filter_name": ""
+  },
+  "silk": {
+    "view_name": "Шёлк",
+    "filter_name": "Шёлк"
+  },
+  "polypropylene": {
+    "view_name": "Полипропилен",
+    "filter_name": ""
+  },
+  "alpaca": {
+    "view_name": "Шерсть альпаки",
+    "filter_name": "Мех"
+  },
+  "textile": {
+    "view_name": "Текстиль",
+    "filter_name": "Ткань"
+  },
+  "mulberry silk": {
+    "view_name": "Шёлк тутового дерева",
+    "filter_name": "Шёлк"
+  },
+  "polyester silk": {
+    "view_name": "Полиэфирный шёлк",
+    "filter_name": "Шёлк"
+  },
+  "cow Leather": {
+    "view_name": "Кожа",
+    "filter_name": "Кожа"
+  },
+  "denim": {
+    "view_name": "Деним",
+    "filter_name": "Деним"
+  },
+  "artificial Leather": {
+    "view_name": "Искусственная кожа",
+    "filter_name": "Кожа"
+  },
+  "velevet": {
+    "view_name": "Вельвет",
+    "filter_name": "Хлопок"
+  },
+  "calfskin": {
+    "view_name": "Кожа",
+    "filter_name": "Кожа"
+  },
+  "suede": {
+    "view_name": "Замша",
+    "filter_name": "Замша"
+  },
+  "suede leather": {
+    "view_name": "Замша",
+    "filter_name": "Замша"
+  },
+  "premium Leather": {
+    "view_name": "Премиальная кожа",
+    "filter_name": "Кожа"
+  },
+  "synthetic leather": {
+    "view_name": "Синтетическая кожа",
+    "filter_name": "Кожа"
+  },
+  "two-layer cowhide": {
+    "view_name": "Двухслойная воловья кожа",
+    "filter_name": "Кожа"
+  },
+  "fabric": {
+    "view_name": "Ткань",
+    "filter_name": "Ткань"
+  },
+  "mesh": {
+    "view_name": "Сетка",
+    "filter_name": "Ткань"
+  },
+  "pigskin": {
+    "view_name": "Кожа",
+    "filter_name": "Кожа"
+  },
+  "first cowhide": {
+    "view_name": "Кожа",
+    "filter_name": "Кожа"
+  },
+  "the first layer of cowhide": {
+    "view_name": "Кожа",
+    "filter_name": "Кожа"
+  },
+  "sheepskin": {
+    "view_name": "Овчина",
+    "filter_name": "Мех"
+  },
+  "first layer of cowhide": {
+    "view_name": "Кожа",
+    "filter_name": "Кожа"
+  },
+  "nubuck": {
+    "view_name": "Нубук",
+    "filter_name": ""
+  },
+  "composite material": {
+    "view_name": "Композит",
+    "filter_name": ""
+  },
+  "microfiber": {
+    "view_name": "Микрофибра",
+    "filter_name": ""
+  },
+  "two-layer suede": {
+    "view_name": "Замша",
+    "filter_name": "Замша"
+  },
+  "two layers of suede": {
+    "view_name": "Замша",
+    "filter_name": "Замша"
+  },
+  "cow reverse velvet": {
+    "view_name": "Вельвет",
+    "filter_name": "Хлопок"
+  },
+  "pu leather": {
+    "view_name": "Искусственная кожа",
+    "filter_name": "Кожа"
+  },
+  "horse leather": {
+    "view_name": "Кожа",
+    "filter_name": "Кожа"
+  },
+  "patent leather": {
+    "view_name": "Лакированная кожа",
+    "filter_name": "Кожа"
+  },
+  "eva": {
+    "view_name": "EVA",
+    "filter_name": ""
+  },
+  "rubber bottom": {
+    "view_name": "Резина",
+    "filter_name": ""
+  },
+  "resin": {
+    "view_name": "Пластик",
+    "filter_name": ""
+  },
+  "stainless steel": {
+    "view_name": "Нержавеющая сталь",
+    "filter_name": ""
+  },
+  "titanium": {
+    "view_name": "Титан",
+    "filter_name": ""
+  },
+  "plastics": {
+    "view_name": "Пластик",
+    "filter_name": ""
+  },
+  "metal": {
+    "view_name": "Метал",
+    "filter_name": ""
+  },
+  "silicone": {
+    "view_name": "Силикон",
+    "filter_name": ""
+  },
+  "leather": {
+    "view_name": "Кожа",
+    "filter_name": "Кожа"
+  },
+  "genuine leather": {
+    "view_name": "Кожа",
+    "filter_name": "Кожа"
+  },
+  "duck down": {
+    "view_name": "Утиный пух",
+    "filter_name": "Пух"
+  },
+  "white duck down": {
+    "view_name": "Белый утиный пух",
+    "filter_name": "Пух"
+  },
+  "white goose down": {
+    "view_name": "Белый гусиный пух",
+    "filter_name": "Пух"
+  },
+  "goose down": {
+    "view_name": "Гусиный пух",
+    "filter_name": "Пух"
+  },
+  "gray goose down": {
+    "view_name": "Серый гусиный пух",
+    "filter_name": "Пух"
+  },
+  "gray duck down": {
+    "view_name": "Серый утиный пух",
+    "filter_name": "Пух"
+  }
+}

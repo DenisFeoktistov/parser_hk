@@ -1,0 +1,1503 @@
+{
+  "data": {
+    "modelSequence": [
+      {
+        "key": "HEAD",
+        "value": [
+          {
+            "key": "carousel"
+          }
+        ]
+      },
+      {
+        "key": "ACTDATE",
+        "value": [
+          {
+            "key": "activityDateInfo",
+            "title": "预约抢购"
+          }
+        ]
+      },
+      {
+        "key": "LIMITEDSALE",
+        "value": [
+          {
+            "key": "limitedSaleInfo",
+            "title": "品牌发售"
+          }
+        ]
+      },
+      {
+        "key": "BASE",
+        "value": [
+          {
+            "key": "discount"
+          },
+          {
+            "key": "core"
+          },
+          {
+            "key": "lastSold",
+            "title": "最近购买"
+          }
+        ]
+      },
+      {
+        "key": "PROCESS",
+        "value": [
+          {
+            "key": "buyingProcess",
+            "title": "购买流程"
+          }
+        ]
+      },
+      {
+        "key": "DELIVERY",
+        "value": [
+          {
+            "key": "deliveryTime",
+            "title": "发货时间"
+          }
+        ]
+      },
+      {
+        "key": "SERVICE",
+        "value": [
+          {
+            "key": "newBrand",
+            "title": "品宣"
+          },
+          {
+            "key": "genuine",
+            "title": "保障"
+          },
+          {
+            "key": "newService",
+            "title": "服务"
+          }
+        ]
+      },
+      {
+        "key": "MID",
+        "value": [
+          {
+            "key": "advMid",
+            "title": "中通"
+          }
+        ]
+      },
+      {
+        "key": "ACTIVITY",
+        "value": [
+          {
+            "key": "activityForm",
+            "title": "会场活动"
+          }
+        ]
+      },
+      {
+        "key": "SOLD",
+        "value": [
+          {
+            "key": "lastSoldListModel",
+            "title": "最近购买"
+          }
+        ]
+      },
+      {
+        "key": "OUTFIT",
+        "value": [
+          {
+            "key": "relationTrend",
+            "title": "穿搭精选"
+          }
+        ]
+      },
+      {
+        "key": "QA",
+        "value": [
+          {
+            "key": "qaModel",
+            "title": "商品讨论"
+          }
+        ]
+      },
+      {
+        "key": "BRAND",
+        "value": [
+          {
+            "key": "brand",
+            "title": "商品品牌"
+          }
+        ]
+      },
+      {
+        "key": "RELATION",
+        "value": [
+          {
+            "key": "relationRecommend",
+            "title": "相关推荐"
+          }
+        ]
+      },
+      {
+        "key": "INFORMATION",
+        "value": [
+          {
+            "key": "basicParam",
+            "title": "商品参数"
+          },
+          {
+            "key": "perfumePropertyInfo",
+            "title": "香水"
+          },
+          {
+            "key": "skinCareInfo",
+            "title": "护肤"
+          },
+          {
+            "key": "functionProperty",
+            "title": "功能特性"
+          },
+          {
+            "key": "shoeSeries",
+            "title": "科技特性"
+          },
+          {
+            "key": "voteModelInfo",
+            "title": "投票信息"
+          }
+        ]
+      },
+      {
+        "key": "INFORMATION1",
+        "value": [
+          {
+            "key": "sizeModel",
+            "title": "尺码助手",
+            "ext": {
+              "sizeReportTitle": "试穿报告",
+              "sizeTemplateTitle": "尺码对照表",
+              "splitFittingReportTitle": "尺码推荐"
+            }
+          }
+        ]
+      },
+      {
+        "key": "INFORMATION2",
+        "value": [
+          {
+            "key": "capacityCombination",
+            "title": "箱包"
+          },
+          {
+            "key": "sizeWearEffectSpread",
+            "title": "上身位置"
+          },
+          {
+            "key": "upperBodyEffectInfo",
+            "title": "上身效果"
+          },
+          {
+            "key": "richText",
+            "title": "镜框参考",
+            "relateFiled": "frameReferenceSpread"
+          },
+          {
+            "key": "warranty",
+            "title": "保卡说明"
+          },
+          {
+            "key": "richText",
+            "title": "使用教程",
+            "relateFiled": "specificationCourseSpread"
+          },
+          {
+            "key": "versionIntroduce",
+            "title": "版本介绍"
+          },
+          {
+            "key": "richText",
+            "title": "注意须知",
+            "relateFiled": "attention"
+          },
+          {
+            "key": "virtualImageAndTextModel",
+            "ext": {
+              "physicalContrastTitle": "实物对比",
+              "sortedModels": "historyJson,spuDetailSpread,spuWearSpread,spuShowSpread,spuInfoSpread,physicalContrastImageTextSpread,materialDescriptionSpread,afterSalesServiceSpread,maintenanceInstructionsSpread,spuIntroductionSpread,brandStorySpread",
+              "specificationCourseTitle": "使用教程",
+              "spuShowTitle": "商品展示",
+              "maintenanceInstructionsTitle": "保养说明",
+              "materialDescriptionTitle": "材质说明",
+              "frameReferenceTitle": "镜框参考",
+              "spuDetailTitle": "细节呈现",
+              "attentionTitle": "注意须知",
+              "multiModels": "[{\"key\":\"richText\",\"title\":\"历史图文json\",\"relateFiled\":\"historyJson\"},{\"key\":\"richText\",\"title\":\"细节呈现\",\"relateFiled\":\"spuDetailSpread\"},{\"key\":\"richText\",\"title\":\"穿搭效果\",\"relateFiled\":\"spuWearSpread\"},{\"key\":\"richText\",\"title\":\"商品展示\",\"relateFiled\":\"spuShowSpread\"},{\"key\":\"richText\",\"title\":\"商品信息\",\"relateFiled\":\"spuInfoSpread\"},{\"key\":\"richText\",\"title\":\"实物对比(图文)\",\"relateFiled\":\"physicalContrastImageTextSpread\"},{\"key\":\"richText\",\"title\":\"材质说明\",\"relateFiled\":\"materialDescriptionSpread\"},{\"key\":\"richText\",\"title\":\"售后服务\",\"relateFiled\":\"afterSalesServiceSpread\"},{\"key\":\"richText\",\"title\":\"保养说明\",\"relateFiled\":\"maintenanceInstructionsSpread\"},{\"key\":\"richText\",\"title\":\"商品介绍\",\"relateFiled\":\"spuIntroductionSpread\"},{\"key\":\"richText\",\"title\":\"品牌故事\",\"relateFiled\":\"brandStorySpread\"},{\"key\":\"buyerReading\",\"title\":\"购物须知\"},{\"key\":\"commonQuestionRes\",\"title\":\"常见问题\"}]",
+              "spuInfoTitle": "商品信息",
+              "spuIntroductionTitle": "商品介绍",
+              "spuWearTitle": "穿搭效果",
+              "afterSalesServiceTitle": "售后服务"
+            }
+          },
+          {
+            "key": "spuCertificate",
+            "title": "商品资质"
+          }
+        ]
+      },
+      {
+        "key": "TIPS",
+        "value": [
+          {
+            "key": "commonTips",
+            "title": "购物须知与常见问题"
+          }
+        ]
+      },
+      {
+        "key": "FEED2",
+        "value": [
+          {
+            "key": "appraiseFeed",
+            "title": "好物评价"
+          }
+        ]
+      },
+      {
+        "key": "FEED1",
+        "value": [
+          {
+            "key": "recommend",
+            "title": "为你推荐"
+          }
+        ]
+      }
+    ],
+    "price": {
+      "productSoldOutModel": {},
+      "item": {
+        "saleInventoryNo": "SN102215839633PS10",
+        "price": 29900,
+        "type": 1,
+        "maxPrice": 29900,
+        "tradeType": 11,
+        "skuId": 646060462,
+        "floorPrice": 29900,
+        "upperPrice": 0,
+        "intentPrice": 0,
+        "haveBrandBid": true,
+        "activityPrice": 0,
+        "includeTax": false,
+        "originalPrice": 29900,
+        "taxInfo": {
+          "includeTax": false
+        },
+        "nonGlobalOriginalPrice": 29900
+      },
+      "priceType": 1
+    },
+    "lastSold": {
+      "avatar": "https://image-cdn.poizon.com/app/2024/other/1527036910_byte166884byte_dbe213bd6c6fda26d23beb28239feb4e_iOS_w1080h1080.jpg",
+      "lastSoldText": "重*1月22日购买了110CM CQ金色钢扣（撞色爱玛橙带身）",
+      "contentText": "1人付款",
+      "tinySoldNumText": "1人付款",
+      "lastSoldWeakenText": "1月22日购买"
+    },
+    "image": {
+      "spuImage": {
+        "threeDimension": {},
+        "images": [
+          {
+            "propertyValueId": 334491835,
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20231223/68fc48270f9b458889d94ee4957d8260.jpg",
+            "imgType": 0,
+            "desc": ""
+          },
+          {
+            "propertyValueId": 334491835,
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20231223/9d058c9176514954a14175af46ce7a95.jpg",
+            "imgType": 0,
+            "desc": ""
+          },
+          {
+            "propertyValueId": 334491836,
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20231223/9711da3f36304b9abb2c6ad7b0b18114.jpg",
+            "imgType": 0,
+            "desc": ""
+          },
+          {
+            "propertyValueId": 334491836,
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20231223/f7439f3822ea4bfd8a9f60bd7be26179.jpg",
+            "imgType": 0,
+            "desc": ""
+          }
+        ],
+        "supportPanorama": 1,
+        "supportColorBlock": 0,
+        "arSkuIdRelation": [
+          {
+            "spuId": 7931711,
+            "skuId": 646060462,
+            "supportFlag": false
+          },
+          {
+            "spuId": 7931711,
+            "skuId": 646060463,
+            "supportFlag": false
+          },
+          {
+            "spuId": 7931711,
+            "skuId": 646060464,
+            "supportFlag": false
+          },
+          {
+            "spuId": 7931711,
+            "skuId": 646060465,
+            "supportFlag": false
+          },
+          {
+            "spuId": 7931711,
+            "skuId": 646060466,
+            "supportFlag": false
+          },
+          {
+            "spuId": 7931711,
+            "skuId": 646060467,
+            "supportFlag": false
+          },
+          {
+            "spuId": 7931711,
+            "skuId": 646060468,
+            "supportFlag": false
+          },
+          {
+            "spuId": 7931711,
+            "skuId": 646060469,
+            "supportFlag": false
+          },
+          {
+            "spuId": 7931711,
+            "skuId": 646060470,
+            "supportFlag": false
+          },
+          {
+            "spuId": 7931711,
+            "skuId": 646060471,
+            "supportFlag": false
+          },
+          {
+            "spuId": 7931711,
+            "skuId": 646060472,
+            "supportFlag": false
+          },
+          {
+            "spuId": 7931711,
+            "skuId": 646060473,
+            "supportFlag": false
+          }
+        ],
+        "moreMaterialFlag": 0
+      },
+      "imageLayoutType": 1,
+      "isOnlyShowHitCspu": true
+    },
+    "frontLabelSummaryDTO": {
+      "afterTitle": {
+        "sortRule": [
+          {
+            "labelType": "LABEL_DE_WU_EXCLUSIVE",
+            "sorted": 10,
+            "sourceType": "SPU"
+          },
+          {
+            "labelType": "LABEL_EXCLUSIVE_LAUNCH",
+            "sorted": 20,
+            "sourceType": "SPU"
+          },
+          {
+            "labelType": "LABEL_FIRST_SELL",
+            "sorted": 30,
+            "sourceType": "SPU"
+          },
+          {
+            "labelType": "LABEL_FIRST_BUY",
+            "sorted": 31,
+            "sourceType": "SPU"
+          },
+          {
+            "labelType": "LABEL_BRAND_ONLY_4_BRAND_OFFICIAL",
+            "sorted": 40,
+            "sourceType": "SPU"
+          },
+          {
+            "labelType": "LABEL_BRAND_ONLY_4_BRAND_ONLY",
+            "sorted": 41,
+            "sourceType": "SPU"
+          },
+          {
+            "labelType": "LABEL_GLOBAL_BUY",
+            "sorted": 50,
+            "sourceType": "SPU"
+          }
+        ]
+      },
+      "belowTitle": {
+        "sortRule": [
+          {
+            "labelType": "LABEL_PAGE_LANDING_RANK",
+            "sorted": 10,
+            "sourceType": "SPU"
+          },
+          {
+            "labelType": "LABEL_PAGE_LANDING_SERIES",
+            "sorted": 20,
+            "sourceType": "SPU"
+          },
+          {
+            "labelType": "LABEL_PAGE_LANDING_IP",
+            "sorted": 30,
+            "sourceType": "SPU"
+          },
+          {
+            "labelType": "LABEL_PAGE_LANDING_THEME",
+            "sorted": 40,
+            "sourceType": "SPU"
+          },
+          {
+            "labelType": "LABEL_PAGE_LANDING_RELATED",
+            "sorted": 70,
+            "sourceType": "SPU"
+          }
+        ]
+      },
+      "belowPrice": {}
+    },
+    "basicParam": {
+      "basicList": [
+        {
+          "key": "材质",
+          "value": "牛皮,不锈钢",
+          "propertyValueId": 334491829,
+          "valueType": 0
+        },
+        {
+          "key": "尺寸",
+          "value": "带长105cm/110CM/115cm/120cm/125cm/130cm 带宽3.5cm",
+          "propertyValueId": 334491833,
+          "valueType": 0
+        },
+        {
+          "key": "配色",
+          "value": "黑色/爱玛橙",
+          "propertyValueId": 334491830,
+          "valueType": 0
+        },
+        {
+          "key": "腰带带扣款式",
+          "value": "板扣",
+          "propertyValueId": 334491828,
+          "valueType": 0
+        },
+        {
+          "key": "主货号",
+          "value": "定制-CQ",
+          "valueType": 0
+        }
+      ],
+      "windowsList": [
+        {
+          "key": "材质",
+          "value": "牛皮,不锈钢",
+          "propertyValueId": 334491829,
+          "valueType": 0,
+          "definitionId": 291
+        },
+        {
+          "key": "尺寸",
+          "value": "带长105cm/110CM/115cm/120cm/125cm/130cm 带宽3.5cm",
+          "propertyValueId": 334491833,
+          "valueType": 0,
+          "definitionId": 208
+        },
+        {
+          "key": "配色",
+          "value": "黑色/爱玛橙",
+          "propertyValueId": 334491830,
+          "valueType": 0,
+          "definitionId": 1453
+        },
+        {
+          "key": "腰带带扣款式",
+          "value": "板扣",
+          "propertyValueId": 334491828,
+          "valueType": 0,
+          "definitionId": 358
+        },
+        {
+          "key": "主货号",
+          "value": "定制-CQ",
+          "valueType": 0,
+          "definitionId": -1
+        },
+        {
+          "key": "发售价格",
+          "value": "¥699",
+          "valueType": 0,
+          "definitionId": -3
+        },
+        {
+          "key": "发售日期",
+          "value": "2023冬季",
+          "valueType": 0,
+          "definitionId": -4
+        },
+        {
+          "key": "生产产地",
+          "value": "广州",
+          "propertyValueId": 334491834,
+          "valueType": 0,
+          "definitionId": 1452
+        },
+        {
+          "key": "包装清单",
+          "value": "礼盒",
+          "propertyValueId": 334491831,
+          "valueType": 0,
+          "definitionId": 1450
+        },
+        {
+          "key": "款式",
+          "value": "腰带",
+          "propertyValueId": 334491832,
+          "valueType": 0,
+          "definitionId": 297
+        }
+      ],
+      "windowTitle": "商品参数",
+      "pkModelInfo": {
+        "pkFlag": false,
+        "pkIcon3": "https://cdn.poizon.com/node-common/a0fdb2f3-40d6-3bcb-74a1-4f06ab2927aa-144-152.png",
+        "pkIcon4": "https://cdn.poizon.com/node-common/edcfc738-9b7a-21fa-dd20-af54f3404d53-45-30.png"
+      },
+      "windowSubTitle": "纠错",
+      "supportAnchorFlag": false,
+      "iconUrl": "https://cdn.poizon.com/node-common/75f69aa5-d544-4d01-30af-46d9b9892657-54-54.png"
+    },
+    "floorsModel": [
+      {
+        "title": "商品",
+        "models": [
+          "carousel"
+        ],
+        "ext": {}
+      },
+      {
+        "title": "讨论",
+        "models": [
+          "qaModel"
+        ],
+        "ext": {}
+      },
+      {
+        "title": "详情",
+        "models": [
+          "basicParam"
+        ],
+        "ext": {}
+      },
+      {
+        "title": "尺码",
+        "models": [
+          "sizeModel"
+        ],
+        "ext": {}
+      },
+      {
+        "title": "评价",
+        "models": [
+          "appraiseFeed"
+        ],
+        "ext": {}
+      }
+    ],
+    "qaModel": {
+      "canAsk": 1,
+      "showType": 4
+    },
+    "imageAndTextMap": {
+      "spuShowSpread": [
+        {
+          "type": "image",
+          "contentType": "SHOW",
+          "contentName": "商品展示",
+          "images": [
+            {
+              "url": "https://cdn.poizon.com/stark/stark-web/1708006275/1f60ec1e6b77b105198de72fa012f1d9.jpg",
+              "width": 2500,
+              "height": 1600
+            },
+            {
+              "url": "https://cdn.poizon.com/stark/stark-web/1708006275/32c4e742f435d1ad8634f5654228639a.jpg",
+              "width": 2500,
+              "height": 1600
+            },
+            {
+              "url": "https://cdn.poizon.com/stark/stark-web/1708006275/492b6530095a3d7e2af1172c3d9639e7.jpg",
+              "width": 790,
+              "height": 652
+            },
+            {
+              "url": "https://cdn.poizon.com/stark/stark-web/1708006275/06471a26f0d0d53221fa0e010414e115.jpg",
+              "width": 790,
+              "height": 1118
+            },
+            {
+              "url": "https://cdn.poizon.com/stark/stark-web/1708006275/1f49004b799bf079c16271109271c30e.jpg",
+              "width": 790,
+              "height": 1001
+            },
+            {
+              "url": "https://cdn.poizon.com/stark/stark-web/1708006275/02ff9244964f1ecfc66babf636111fd8.jpg",
+              "width": 790,
+              "height": 1641
+            },
+            {
+              "url": "https://cdn.poizon.com/stark/stark-web/1708006275/191b846fd638cb27daca366666d7e007.jpg",
+              "width": 790,
+              "height": 1398
+            },
+            {
+              "url": "https://cdn.poizon.com/stark/stark-web/1708006275/6230ad70eb9b0228e0e441c2106c5113.jpg",
+              "width": 3000,
+              "height": 3000
+            },
+            {
+              "url": "https://cdn.poizon.com/stark/stark-web/1708006275/d1ecaf050d7a63812570b0a9cb72fa3e.jpg",
+              "width": 790,
+              "height": 1687
+            },
+            {
+              "url": "https://cdn.poizon.com/stark/stark-web/1708006275/cb9d59b01390d8e01ae24473e2a1968b.jpg",
+              "width": 790,
+              "height": 1158
+            }
+          ],
+          "imageGap": true
+        }
+      ],
+      "spuInfoSpread": [
+        {
+          "type": "image",
+          "contentType": "INFO",
+          "contentName": "商品信息",
+          "images": [
+            {
+              "url": "https://cdn.poizon.com/stark/stark-web/1708006275/f4f33e179d566514a8c62cfc8e49a9b1.jpg",
+              "width": 790,
+              "height": 1357
+            }
+          ],
+          "imageGap": true
+        }
+      ]
+    },
+    "virtualImageAndTextModel": {
+      "models": [
+        "historyJson",
+        "spuDetailSpread",
+        "spuWearSpread",
+        "spuShowSpread",
+        "spuInfoSpread",
+        "physicalContrastImageTextSpread",
+        "materialDescriptionSpread",
+        "afterSalesServiceSpread",
+        "maintenanceInstructionsSpread",
+        "spuIntroductionSpread",
+        "brandStorySpread"
+      ],
+      "multiModels": [
+        {
+          "key": "richText",
+          "title": "历史图文json",
+          "relateFiled": "historyJson"
+        },
+        {
+          "key": "richText",
+          "title": "细节呈现",
+          "relateFiled": "spuDetailSpread"
+        },
+        {
+          "key": "richText",
+          "title": "穿搭效果",
+          "relateFiled": "spuWearSpread"
+        },
+        {
+          "key": "richText",
+          "title": "商品展示",
+          "relateFiled": "spuShowSpread"
+        },
+        {
+          "key": "richText",
+          "title": "商品信息",
+          "relateFiled": "spuInfoSpread"
+        },
+        {
+          "key": "richText",
+          "title": "实物对比(图文)",
+          "relateFiled": "physicalContrastImageTextSpread"
+        },
+        {
+          "key": "richText",
+          "title": "材质说明",
+          "relateFiled": "materialDescriptionSpread"
+        },
+        {
+          "key": "richText",
+          "title": "售后服务",
+          "relateFiled": "afterSalesServiceSpread"
+        },
+        {
+          "key": "richText",
+          "title": "保养说明",
+          "relateFiled": "maintenanceInstructionsSpread"
+        },
+        {
+          "key": "richText",
+          "title": "商品介绍",
+          "relateFiled": "spuIntroductionSpread"
+        },
+        {
+          "key": "richText",
+          "title": "品牌故事",
+          "relateFiled": "brandStorySpread"
+        },
+        {
+          "key": "buyerReading",
+          "title": "购物须知"
+        },
+        {
+          "key": "commonQuestionRes",
+          "title": "常见问题"
+        }
+      ]
+    },
+    "brandingModel": {
+      "newBrand": {
+        "jumpUrl": "https://cdn-fast.dewu.com/nezha-plus/detail/649b9c0836071e00c8e16f30/tabId=keyogygnrhj&subPageId=63fdf6f8e12c859becb4b898?isAllowVideoAutoPlay=1&nezhaChannel=prd_tongyong&title=%E5%93%81%E7%89%8C%E5%AE%98%E6%96%B9%E4%B8%93%E4%BE%9B%EF%BC%8C%E6%AF%8F%E4%BB%B6%E9%83%BD%E8%83%BD%E4%B8%BA%E4%BD%A0%E8%BF%BD%E6%9C%AC%E6%BA%AF%E6%BA%90",
+        "coverUrl": "https://cdn.poizon.com/node-common/MzMxNjg4NjU0NjAzMjY4.png",
+        "height": 126,
+        "width": 1065,
+        "id": 569,
+        "brandingDesc": "品牌官方专供，每件都能为你追本溯源",
+        "arrowStyle": 2
+      }
+    },
+    "commonTipsModel": {
+      "name": "购物须知与常见问题",
+      "commonQuestionRes": {
+        "jumpUrl": "https://cdn-fast.dewu.com/nezha-plus/detail/62cccda8544c050105b25b84?isAllowVideoAutoPlay=1&navControl=1",
+        "questionAndAnswerList": [
+          {
+            "question": "为什么品牌官方专供认证证书扫码与鉴别证书不同？",
+            "answer": "品牌官方专供可作为商家品质保障的依据，由入驻品牌官方专供商家直接进行打包发货到买家手中，条形码为商家扫码管理包装库存使用，区别于得物鉴别证书，因此不同于得物鉴别证书。"
+          }
+        ],
+        "level1CategoryId": -1,
+        "level2CategoryId": -1,
+        "categoryId": -1,
+        "finalCategoryId": -1,
+        "detailType": 1,
+        "ruleId": "",
+        "brandingDesc": "",
+        "subDetailType": 11
+      },
+      "platformBranding": [
+        {
+          "url": "https://cdn.poizon.com/node-common/JUU1JTkzJTgxJUU3JTg5JThDJUU3JTlCJUI0JUU1JThGJTkxMTY4NTQ0MzA5NzczNQ==.png",
+          "width": 1125,
+          "height": 711,
+          "jumpUrl": "https://cdn-fast.dewu.com/nezha-plus/detail/63fdf6f8e12c859becb4b898?isAllowVideoAutoPlay=1&navControl=1&nezhaChannel=prd_wujiantao"
+        },
+        {
+          "url": "https://cdn.poizon.com/node-common/JUU1JTkzJTgxJUU3JTg5JThDJUU3JTlCJUI0JUU1JThGJTkxJUU1JTkzJTgxJUU1JUFFJUEzMTY4NTQ0MzExOTM0MA==.png",
+          "width": 1125,
+          "height": 930,
+          "jumpUrl": "https://cdn-fast.dewu.com/nezha-plus/detail/63fdf6f8e12c859becb4b898?isAllowVideoAutoPlay=1&navControl=1&nezhaChannel=prd_others"
+        }
+      ],
+      "buyerReading": {
+        "showNum": 1,
+        "contentList": [
+          {
+            "title": "品牌专供",
+            "content": "因出价逻辑特殊性，品牌专供指在该商品下存在该渠道，商品页显示价格为全渠道最低价格，品牌专供渠道下的价格以下单页面显示为准。"
+          },
+          {
+            "title": "划线价",
+            "content": "指商品的吊牌价、发售价、市场零售价、商品曾经展示的销售价或当前商品最低价等，并非商品原价，仅供参考。"
+          },
+          {
+            "title": "关于商品",
+            "content": "由于生产批次、产地的不同以及商品更新升级和品牌方图片调整，实物的材质、外观细节、配件和包装等可能与商品图片存在细微差异，具体请以收到的实物为准。如商品上绑有调包扣或贴有防伪贴纸，请您收到货后先确认商品无误再进行拆除。"
+          },
+          {
+            "title": "关于色差",
+            "content": "因手机、电脑等显示设备的色彩偏差和个人对颜色理解等不同，导致实物可能会与照片存在一定色差，请您以收到的实物为准。"
+          },
+          {
+            "title": "关于尺码",
+            "content": "商品详情页的尺码表/尺寸信息仅供参考，根据商品材质特性和测量方法上的差异，可能存在细微误差，均属于正常情况。"
+          },
+          {
+            "title": "好物低价",
+            "content": "指同款商品，得物当前售价对比部分友商平台更低"
+          }
+        ]
+      }
+    },
+    "newService": {
+      "list": [
+        {
+          "title": "假一赔三",
+          "checkTarget": "FALSE_PAYS_THREE",
+          "type": 1
+        },
+        {
+          "title": "7天无理由退货",
+          "checkTarget": "NO_REASON",
+          "type": 2
+        },
+        {
+          "title": "全场包邮",
+          "checkTarget": "FREE_SHIPPING",
+          "type": 2
+        },
+        {
+          "title": "晚到必赔",
+          "checkTarget": "COMPENSATE_FOR_LATE",
+          "type": 2
+        },
+        {
+          "title": "退换货减免运费",
+          "checkTarget": "INSURANCE_CHANGE_TYPE",
+          "type": 2
+        },
+        {
+          "title": "逐件查验",
+          "checkTarget": "PIECE_CHECK",
+          "type": 2
+        },
+        {
+          "title": "防伪包装",
+          "checkTarget": "SECURITY_PACKAGE",
+          "type": 2
+        },
+        {
+          "title": "品牌官方",
+          "checkTarget": "BRAND_ONLY",
+          "type": 2
+        }
+      ],
+      "arrowStyle": 1,
+      "iconUrl": "https://cdn.poizon.com/node-common/b4712aeb-229c-f910-d5de-61755ccd4ab5-54-54.png",
+      "serviceTotalText": "8项服务"
+    },
+    "favoriteData": {
+      "hasFavorite": false,
+      "hasMyOwn": false,
+      "favoriteCount": {
+        "count": 1,
+        "content": "1人想要",
+        "tinyContent": "1"
+      },
+      "myOwnCount": {
+        "count": 1,
+        "content": "1",
+        "tinyContent": "1"
+      }
+    },
+    "brandRootInfo": {
+      "title": "品牌",
+      "multiRelationText": "",
+      "brandItemList": [
+        {
+          "mainBrand": 0,
+          "brandType": 0,
+          "brandId": 1005173,
+          "artistId": 0,
+          "brandLogo": "https://cdn.poizon.com/pro-img/cut-img/20231208/769d0e132771497088fe3d7925f6ea3f.jpg",
+          "brandName": "Ace Paul",
+          "brandTextList": [
+            {
+              "type": 6,
+              "showText": "5000+款好物"
+            },
+            {
+              "type": 4,
+              "showText": "2000+人订阅"
+            },
+            {
+              "type": 2,
+              "showText": "年轻力新潮设计"
+            }
+          ],
+          "brandIdentifyInfo": {
+            "type": 3,
+            "title": "品牌入驻",
+            "iconUrl": "https://cdn.dewu.com/node-common/a51646e0-1ac8-5f8a-83b8-d3dadb245aa3-174-48.png",
+            "iconWidth": 58,
+            "iconHeight": 16
+          },
+          "coverUrl": "https://cdn.poizon.com/node-common/d0a68da6c2651308fed29362b8dc4019.jpg"
+        }
+      ],
+      "brandLayer": 1,
+      "brandItemShowSize": 1
+    },
+    "sizeDto": {
+      "sizeInfo": {
+        "sizeTemplate": {
+          "title": "尺码对照表",
+          "tips": "该数据为手工测量，可能存在1-3cm的误差。（单位cm）",
+          "name": "",
+          "list": [
+            {
+              "sizeKey": "尺码",
+              "sizeValue": "105CM,110CM,115CM,120CM,125CM,130CM"
+            },
+            {
+              "sizeKey": "皮带宽度（CM）",
+              "sizeValue": "3.5,3.5,3.5,3.5,3.5,3.5"
+            },
+            {
+              "sizeKey": "适用腰围（CM）",
+              "sizeValue": "75-85,80-90,85-95,90-100,95-105,100-110"
+            },
+            {
+              "sizeKey": "中国腰围",
+              "sizeValue": "2尺3-2尺5,2尺4-2尺6,2尺5-2尺7,2尺6-2尺8,2尺7-2尺9,2尺8-3尺"
+            },
+            {
+              "sizeKey": "国际腰围（英寸）",
+              "sizeValue": "29-33,31-35,33-37,35-39,37-41,39-43"
+            }
+          ],
+          "brandLogoUrl": "https://cdn.poizon.com/pro-img/cut-img/20231208/769d0e132771497088fe3d7925f6ea3f.jpg",
+          "hasSizeTable": true,
+          "hitRowNum": 1,
+          "hitColNum": 0,
+          "defaultRowNum": 1,
+          "hasSelected": false,
+          "hasFold": true,
+          "offsetCodeType": 0,
+          "type": 0,
+          "isShow": 1
+        }
+      },
+      "sizeFlag": 3,
+      "sizeInfoRecommendText": "查看尺码表",
+      "comparedRecommendRow": 1,
+      "foldShowRowNum": 0,
+      "downFoldShowRowNum": 4
+    },
+    "detail": {
+      "spuId": 7931711,
+      "isSelf": 0,
+      "categoryId": 157,
+      "level1CategoryId": 92,
+      "level2CategoryId": 101,
+      "brandId": 1005173,
+      "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20231223/68fc48270f9b458889d94ee4957d8260.jpg",
+      "title": "Ace Paul 手工姓名字母定制『CQ』时尚个性潮流男士百搭商务 皮带 男款 宽3.5cm",
+      "desc": "手工姓名字母定制时尚个性潮流男士百搭商务双面真头层牛皮腰带",
+      "sourceName": "default",
+      "articleNumber": "定制-CQ",
+      "isShow": 1,
+      "fitId": 2,
+      "defaultSkuId": 0,
+      "goodsType": 100,
+      "status": 1,
+      "bizType": 0,
+      "sellDate": "2023冬季",
+      "authPrice": 699,
+      "originalTitle": "Ace Paul 手工姓名字母定制『CQ』时尚个性潮流男士百搭商务双面真头层牛皮腰带高档板扣皮带宽3.5cm",
+      "structureTitle": "Ace Paul 手工姓名字母定制『CQ』时尚个性潮流男士百搭商务 皮带 男款 宽3.5cm",
+      "categoryName": "皮带",
+      "soldCountText": "1人付款",
+      "levelPvSize": 2
+    },
+    "relationTrend": {
+      "code": 0
+    },
+    "skus": [
+      {
+        "skuId": 646060462,
+        "spuId": 7931711,
+        "authPrice": 69900,
+        "status": 1,
+        "properties": [
+          {
+            "level": 1,
+            "propertyValueId": 334491835
+          },
+          {
+            "level": 2,
+            "propertyValueId": 334491837
+          }
+        ],
+        "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20231223/68fc48270f9b458889d94ee4957d8260.jpg"
+      },
+      {
+        "skuId": 646060463,
+        "spuId": 7931711,
+        "authPrice": 69900,
+        "status": 1,
+        "properties": [
+          {
+            "level": 1,
+            "propertyValueId": 334491835
+          },
+          {
+            "level": 2,
+            "propertyValueId": 334491838
+          }
+        ],
+        "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20231223/68fc48270f9b458889d94ee4957d8260.jpg"
+      },
+      {
+        "skuId": 646060464,
+        "spuId": 7931711,
+        "authPrice": 69900,
+        "status": 1,
+        "properties": [
+          {
+            "level": 1,
+            "propertyValueId": 334491835
+          },
+          {
+            "level": 2,
+            "propertyValueId": 334491839
+          }
+        ],
+        "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20231223/68fc48270f9b458889d94ee4957d8260.jpg"
+      },
+      {
+        "skuId": 646060465,
+        "spuId": 7931711,
+        "authPrice": 69900,
+        "status": 1,
+        "properties": [
+          {
+            "level": 1,
+            "propertyValueId": 334491835
+          },
+          {
+            "level": 2,
+            "propertyValueId": 334491840
+          }
+        ],
+        "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20231223/68fc48270f9b458889d94ee4957d8260.jpg"
+      },
+      {
+        "skuId": 646060466,
+        "spuId": 7931711,
+        "authPrice": 69900,
+        "status": 1,
+        "properties": [
+          {
+            "level": 1,
+            "propertyValueId": 334491835
+          },
+          {
+            "level": 2,
+            "propertyValueId": 334491841
+          }
+        ],
+        "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20231223/68fc48270f9b458889d94ee4957d8260.jpg"
+      },
+      {
+        "skuId": 646060467,
+        "spuId": 7931711,
+        "authPrice": 69900,
+        "status": 1,
+        "properties": [
+          {
+            "level": 1,
+            "propertyValueId": 334491835
+          },
+          {
+            "level": 2,
+            "propertyValueId": 334491842
+          }
+        ],
+        "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20231223/68fc48270f9b458889d94ee4957d8260.jpg"
+      },
+      {
+        "skuId": 646060468,
+        "spuId": 7931711,
+        "authPrice": 69900,
+        "status": 1,
+        "properties": [
+          {
+            "level": 1,
+            "propertyValueId": 334491836
+          },
+          {
+            "level": 2,
+            "propertyValueId": 334491837
+          }
+        ],
+        "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20231223/9711da3f36304b9abb2c6ad7b0b18114.jpg"
+      },
+      {
+        "skuId": 646060469,
+        "spuId": 7931711,
+        "authPrice": 69900,
+        "status": 1,
+        "properties": [
+          {
+            "level": 1,
+            "propertyValueId": 334491836
+          },
+          {
+            "level": 2,
+            "propertyValueId": 334491838
+          }
+        ],
+        "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20231223/9711da3f36304b9abb2c6ad7b0b18114.jpg"
+      },
+      {
+        "skuId": 646060470,
+        "spuId": 7931711,
+        "authPrice": 69900,
+        "status": 1,
+        "properties": [
+          {
+            "level": 1,
+            "propertyValueId": 334491836
+          },
+          {
+            "level": 2,
+            "propertyValueId": 334491839
+          }
+        ],
+        "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20231223/9711da3f36304b9abb2c6ad7b0b18114.jpg"
+      },
+      {
+        "skuId": 646060471,
+        "spuId": 7931711,
+        "authPrice": 69900,
+        "status": 1,
+        "properties": [
+          {
+            "level": 1,
+            "propertyValueId": 334491836
+          },
+          {
+            "level": 2,
+            "propertyValueId": 334491840
+          }
+        ],
+        "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20231223/9711da3f36304b9abb2c6ad7b0b18114.jpg"
+      },
+      {
+        "skuId": 646060472,
+        "spuId": 7931711,
+        "authPrice": 69900,
+        "status": 1,
+        "properties": [
+          {
+            "level": 1,
+            "propertyValueId": 334491836
+          },
+          {
+            "level": 2,
+            "propertyValueId": 334491841
+          }
+        ],
+        "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20231223/9711da3f36304b9abb2c6ad7b0b18114.jpg"
+      },
+      {
+        "skuId": 646060473,
+        "spuId": 7931711,
+        "authPrice": 69900,
+        "status": 1,
+        "properties": [
+          {
+            "level": 1,
+            "propertyValueId": 334491836
+          },
+          {
+            "level": 2,
+            "propertyValueId": 334491842
+          }
+        ],
+        "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20231223/9711da3f36304b9abb2c6ad7b0b18114.jpg"
+      }
+    ],
+    "saleProperties": {
+      "list": [
+        {
+          "propertyId": 4140,
+          "name": "尺码",
+          "value": "105CM",
+          "propertyValueId": 334491837,
+          "level": 2,
+          "customValue": "",
+          "showValue": 1,
+          "sort": 0,
+          "definitionId": 6,
+          "fontProperty": false
+        },
+        {
+          "propertyId": 1024118,
+          "name": "款式",
+          "value": "CQ银色钢扣（撞色爱玛橙带身）",
+          "propertyValueId": 334491835,
+          "level": 1,
+          "customValue": "",
+          "showValue": 1,
+          "sort": 1,
+          "definitionId": 2752,
+          "fontProperty": false,
+          "levelImageUrl": "https://cdn.poizon.com/pro-img/origin-img/20231223/68fc48270f9b458889d94ee4957d8260.jpg"
+        },
+        {
+          "propertyId": 4140,
+          "name": "尺码",
+          "value": "110CM",
+          "propertyValueId": 334491838,
+          "level": 2,
+          "customValue": "",
+          "showValue": 1,
+          "sort": 1,
+          "definitionId": 6,
+          "fontProperty": false
+        },
+        {
+          "propertyId": 1024118,
+          "name": "款式",
+          "value": "CQ金色钢扣（撞色爱玛橙带身）",
+          "propertyValueId": 334491836,
+          "level": 1,
+          "customValue": "",
+          "showValue": 1,
+          "sort": 2,
+          "definitionId": 2752,
+          "fontProperty": false,
+          "levelImageUrl": "https://cdn.poizon.com/pro-img/origin-img/20231223/9711da3f36304b9abb2c6ad7b0b18114.jpg"
+        },
+        {
+          "propertyId": 4140,
+          "name": "尺码",
+          "value": "115CM",
+          "propertyValueId": 334491839,
+          "level": 2,
+          "customValue": "",
+          "showValue": 1,
+          "sort": 2,
+          "definitionId": 6,
+          "fontProperty": false
+        },
+        {
+          "propertyId": 4140,
+          "name": "尺码",
+          "value": "120CM",
+          "propertyValueId": 334491840,
+          "level": 2,
+          "customValue": "",
+          "showValue": 1,
+          "sort": 3,
+          "definitionId": 6,
+          "fontProperty": false
+        },
+        {
+          "propertyId": 4140,
+          "name": "尺码",
+          "value": "125CM",
+          "propertyValueId": 334491841,
+          "level": 2,
+          "customValue": "",
+          "showValue": 1,
+          "sort": 4,
+          "definitionId": 6,
+          "fontProperty": false
+        },
+        {
+          "propertyId": 4140,
+          "name": "尺码",
+          "value": "130CM",
+          "propertyValueId": 334491842,
+          "level": 2,
+          "customValue": "",
+          "showValue": 1,
+          "sort": 5,
+          "definitionId": 6,
+          "fontProperty": false
+        }
+      ]
+    },
+    "spu3d360List": {
+      "list": [
+        {
+          "spuId": 7931711,
+          "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20231223/68fc48270f9b458889d94ee4957d8260.jpg",
+          "showType": 0
+        }
+      ]
+    },
+    "configInfo": {
+      "serverTime": 1708903781520,
+      "useLevelImageUrl": true,
+      "spuHasBids": true,
+      "specialLogicTypeMap": {},
+      "sizeFlag": 3,
+      "sizeInfoRecommendText": "查看尺码表",
+      "hasSizeTable": true,
+      "cspuFlag": true,
+      "multipleSpuShow": false,
+      "relationTrendNum": 2,
+      "hasArMakeup": false,
+      "newUserFlag": true,
+      "oldSizeInfo": "查看尺码表",
+      "showPropertyValueThreshold": 30,
+      "floatLayerType": 1,
+      "floatLayerGood": false,
+      "qaGuide": "问答升级为讨论，快来聊聊吧",
+      "appraiseShowNum": 0,
+      "defaultPropertyValueFlag": false,
+      "defaultPropertyValueId": 334491835,
+      "noPriceText": "暂时缺货",
+      "offlineText": "已下架",
+      "findSimilarText": "找相似",
+      "colorSwitcherSize": 44,
+      "hideSimilarGoods": false,
+      "appraiseScore": "0.00",
+      "skuOutStockText": "所选规格缺货"
+    },
+    "kfInfo": {
+      "isShowKf": 1,
+      "kfRobotId": 163756,
+      "kfRobotoId": 163756,
+      "kfGroupId": -1,
+      "sourceName": "related"
+    },
+    "shareInfo": {
+      "threeDLinkUrl": "https://m.dewu.com/router/product/ProductDetail?spuId=7931711&sourceName=shareDetail&shareSource=productDetail",
+      "shareLinkUrl": "https://m.dewu.com/router/product/ProductDetail?spuId=7931711&sourceName=shareDetail",
+      "miniShareLinkUrl": "/product/ProductDetail?spuId=7931711&sourceName=shareDetail"
+    },
+    "toolFeatures": [
+      {
+        "key": "share",
+        "url": ""
+      },
+      {
+        "key": "more",
+        "url": "",
+        "guideText": "快捷入口收起在这里，点击看看吧",
+        "quickTools": {
+          "title": "快捷入口",
+          "tools": [
+            {
+              "key": "wantBuy",
+              "name": "求购",
+              "url": ""
+            },
+            {
+              "key": "sell",
+              "name": "出售",
+              "url": ""
+            },
+            {
+              "key": "mergeWant",
+              "name": "想要",
+              "url": ""
+            },
+            {
+              "key": "favorite",
+              "name": "想要",
+              "url": ""
+            },
+            {
+              "key": "mergeOrder",
+              "name": "合并下单",
+              "url": ""
+            },
+            {
+              "key": "foot",
+              "name": "足迹",
+              "url": ""
+            },
+            {
+              "key": "search",
+              "name": "搜索",
+              "url": ""
+            },
+            {
+              "key": "kf",
+              "name": "客服",
+              "url": ""
+            }
+          ]
+        }
+      }
+    ],
+    "paramMap": {
+      "lowestPriceSkuId": "646060462",
+      "onlyOverseaBid": "false",
+      "brandingIds": "373"
+    },
+    "spuGroupList": {
+      "type": 1,
+      "list": [
+        {
+          "spuId": 7931711,
+          "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20231223/68fc48270f9b458889d94ee4957d8260.jpg",
+          "goodsType": 100,
+          "title": "Ace Paul 手工姓名字母定制『CQ』时尚个性潮流男士百搭商务 皮带 男款 宽3.5cm",
+          "propertyValueId": 334491835
+        },
+        {
+          "spuId": 7931711,
+          "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20231223/9711da3f36304b9abb2c6ad7b0b18114.jpg",
+          "goodsType": 100,
+          "title": "Ace Paul 手工姓名字母定制『CQ』时尚个性潮流男士百搭商务 皮带 男款 宽3.5cm",
+          "propertyValueId": 334491836
+        }
+      ],
+      "sourceType": "cspu"
+    },
+    "mainHasSizeTable": false,
+    "mainConfigInfo": {
+      "serverTime": 1708903781523,
+      "useLevelImageUrl": false,
+      "spuHasBids": false,
+      "specialLogicTypeMap": {},
+      "hasSizeTable": false,
+      "cspuFlag": false,
+      "multipleSpuShow": false,
+      "hasArMakeup": false,
+      "newUserFlag": false,
+      "floatLayerType": 0,
+      "floatLayerGood": false,
+      "hideSimilarGoods": false
+    },
+    "contentStatisticsModel": {
+      "contentList": [
+        "1人付款"
+      ],
+      "contentItems": [
+        {
+          "content": "1人付款",
+          "type": 4
+        }
+      ]
+    }
+  },
+  "code": 200,
+  "status": 200,
+  "msg": "ok",
+  "error": false
+}
